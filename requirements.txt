@@ -1,0 +1,10 @@
+pandas
+numpy
+openpyxl
+selenium
+undetected-chromedriver
+beautifulsoup4
+requests
+langdetect
+deep-translator
+tqdm
