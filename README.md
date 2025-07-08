@@ -1,9 +1,9 @@
 
 ## 🛰️ Recolector de Actividad Política en X/Twitter
 
-```
+
 Este módulo automatiza la recolección, estructuración, limpieza y traducción de datos públicos sobre la actividad en X/Twitter de políticos españoles. Parte de un archivo Excel base con información inicial manual y lo complementa con datos descargados desde fuentes oficiales (Congreso, Wikipedia, X/Twitter).
-```
+
 
 ## 🚀 Funcionalidades
 ````
