@@ -1,0 +1,4937 @@
+[
+  {
+    "codParlamentario": 1,
+    "nombre": "Héctor Palencia Rubio",
+    "partido": "PP",
+    "provincia": "Ávila",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 48
+  },
+  {
+    "codParlamentario": 2,
+    "nombre": "Tomás Cabezón Casas",
+    "partido": "PP",
+    "provincia": "Soria",
+    "legislaturas": [
+      "2019",
+      "2019",
+      "2023"
+    ],
+    "numero_legislaturas": 3,
+    "edad": 44
+  },
+  {
+    "codParlamentario": 3,
+    "nombre": "María Luisa Del Moral Leal",
+    "partido": "PP",
+    "provincia": "Jaén",
+    "legislaturas": [
+      "2019",
+      "2023"
+    ],
+    "numero_legislaturas": 2,
+    "edad": 62
+  },
+  {
+    "codParlamentario": 4,
+    "nombre": "Francisco José Alcaraz Martos",
+    "partido": "VOX",
+    "provincia": "Jaén",
+    "legislaturas": [
+      "2019",
+      "2023"
+    ],
+    "numero_legislaturas": 2,
+    "edad": 57
+  },
+  {
+    "codParlamentario": 5,
+    "nombre": "María de las Nieves Ramírez Moreno",
+    "partido": "PSOE",
+    "provincia": "Málaga",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 41
+  },
+  {
+    "codParlamentario": 6,
+    "nombre": "Susana Sumelzo Jordán",
+    "partido": "PSOE",
+    "provincia": "Zaragoza",
+    "legislaturas": [
+      "2011",
+      "2016",
+      "2016",
+      "2019",
+      "2019",
+      "2023"
+    ],
+    "numero_legislaturas": 6,
+    "edad": 56
+  },
+  {
+    "codParlamentario": 7,
+    "nombre": "Agustín Conde Bajén",
+    "partido": "PP",
+    "provincia": "Toledo",
+    "legislaturas": [
+      "2011",
+      "2023"
+    ],
+    "numero_legislaturas": 2,
+    "edad": 60
+  },
+  {
+    "codParlamentario": 8,
+    "nombre": "Isabel María Pérez Ortiz",
+    "partido": "PSOE",
+    "provincia": "Málaga",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 53
+  },
+  {
+    "codParlamentario": 9,
+    "nombre": "Juan Bravo Baena",
+    "partido": "PP",
+    "provincia": "Sevilla",
+    "legislaturas": [
+      "2016",
+      "2016",
+      "2023"
+    ],
+    "numero_legislaturas": 3,
+    "edad": 51
+  },
+  {
+    "codParlamentario": 10,
+    "nombre": "Luis Carlos Sahuquillo García",
+    "partido": "PSOE",
+    "provincia": "Cuenca",
+    "legislaturas": [
+      "2008",
+      "2011",
+      "2016",
+      "2016",
+      "2019",
+      "2019",
+      "2023"
+    ],
+    "numero_legislaturas": 7,
+    "edad": 59
+  },
+  {
+    "codParlamentario": 11,
+    "nombre": "Luis Alfonso Rey de las Heras",
+    "partido": "PSOE",
+    "provincia": "Soria",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 58
+  },
+  {
+    "codParlamentario": 12,
+    "nombre": "Carlos Rojas García",
+    "partido": "PP",
+    "provincia": "Granada",
+    "legislaturas": [
+      "2016",
+      "2016",
+      "2019",
+      "2019",
+      "2023"
+    ],
+    "numero_legislaturas": 5,
+    "edad": 55
+  },
+  {
+    "codParlamentario": 13,
+    "nombre": "Ana María Pastor Julián",
+    "partido": "PP",
+    "provincia": "Pontevedra",
+    "legislaturas": [
+      "2000",
+      "2004",
+      "2008",
+      "2011",
+      "2016",
+      "2016",
+      "2019",
+      "2019",
+      "2023"
+    ],
+    "numero_legislaturas": 9,
+    "edad": 68
+  },
+  {
+    "codParlamentario": 14,
+    "nombre": "Pedro Fernández Hernández",
+    "partido": "VOX",
+    "provincia": "Zaragoza",
+    "legislaturas": [
+      "2019",
+      "2019",
+      "2023"
+    ],
+    "numero_legislaturas": 3,
+    "edad": 55
+  },
+  {
+    "codParlamentario": 15,
+    "nombre": "María Carmen Castilla Álvarez",
+    "partido": "PSOE",
+    "provincia": "Sevilla",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 57
+  },
+  {
+    "codParlamentario": 16,
+    "nombre": "Daniel Pérez Osma",
+    "partido": "PP",
+    "provincia": "Cuenca",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 36
+  },
+  {
+    "codParlamentario": 17,
+    "nombre": "Daniel Senderos Oraá",
+    "partido": "PSE-EE (PSOE)",
+    "provincia": "Araba/Álava",
+    "legislaturas": [
+      "2019",
+      "2023"
+    ],
+    "numero_legislaturas": 2,
+    "edad": 48
+  },
+  {
+    "codParlamentario": 18,
+    "nombre": "Juan Carlos Jerez Antequera",
+    "partido": "PSC-PSOE",
+    "provincia": "Barcelona",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 63
+  },
+  {
+    "codParlamentario": 19,
+    "nombre": "María Mercè Perea i Conillas",
+    "partido": "PSC-PSOE",
+    "provincia": "Barcelona",
+    "legislaturas": [
+      "2016",
+      "2016",
+      "2019",
+      "2019",
+      "2023"
+    ],
+    "numero_legislaturas": 5,
+    "edad": 59
+  },
+  {
+    "codParlamentario": 20,
+    "nombre": "Sonia Guerra López",
+    "partido": "PSC-PSOE",
+    "provincia": "Barcelona",
+    "legislaturas": [
+      "2019",
+      "2019",
+      "2023"
+    ],
+    "numero_legislaturas": 3,
+    "edad": 48
+  },
+  {
+    "codParlamentario": 21,
+    "nombre": "Francisco Aranda Vargas",
+    "partido": "PSC-PSOE",
+    "provincia": "Barcelona",
+    "legislaturas": [
+      "2019",
+      "2019",
+      "2023"
+    ],
+    "numero_legislaturas": 3,
+    "edad": 48
+  },
+  {
+    "codParlamentario": 22,
+    "nombre": "Teresa Llorens Carbonell",
+    "partido": "PSC-PSOE",
+    "provincia": "Barcelona",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 59
+  },
+  {
+    "codParlamentario": 23,
+    "nombre": "Ferran Verdejo Vicente",
+    "partido": "PSC-PSOE",
+    "provincia": "Barcelona",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 28
+  },
+  {
+    "codParlamentario": 24,
+    "nombre": "David Serrada Pariente",
+    "partido": "PSOE",
+    "provincia": "Salamanca",
+    "legislaturas": [
+      "2016",
+      "2016",
+      "2019",
+      "2019",
+      "2023"
+    ],
+    "numero_legislaturas": 5,
+    "edad": 48
+  },
+  {
+    "codParlamentario": 25,
+    "nombre": "Manuel García Félix",
+    "partido": "PP",
+    "provincia": "Huelva",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 56
+  },
+  {
+    "codParlamentario": 26,
+    "nombre": "Miguel Tellado Filgueira",
+    "partido": "PP",
+    "provincia": "Coruña (A)",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 51
+  },
+  {
+    "codParlamentario": 27,
+    "nombre": "Álvaro Pérez López",
+    "partido": "PP",
+    "provincia": "Coruña (A)",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 52
+  },
+  {
+    "codParlamentario": 28,
+    "nombre": "Ester Muñoz de la Iglesia",
+    "partido": "PP",
+    "provincia": "León",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 40
+  },
+  {
+    "codParlamentario": 29,
+    "nombre": "Antidio Fagúndez Campo",
+    "partido": "PSOE",
+    "provincia": "Zamora",
+    "legislaturas": [
+      "2019",
+      "2023"
+    ],
+    "numero_legislaturas": 2,
+    "edad": 49
+  },
+  {
+    "codParlamentario": 30,
+    "nombre": "Silvia Franco González",
+    "partido": "PP",
+    "provincia": "León",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 56
+  },
+  {
+    "codParlamentario": 31,
+    "nombre": "Andrea Fernández Benéitez",
+    "partido": "PSOE",
+    "provincia": "León",
+    "legislaturas": [
+      "2019",
+      "2019",
+      "2023"
+    ],
+    "numero_legislaturas": 3,
+    "edad": 33
+  },
+  {
+    "codParlamentario": 32,
+    "nombre": "Celso Luis Delgado Arce",
+    "partido": "PP",
+    "provincia": "Ourense",
+    "legislaturas": [
+      "2000",
+      "2004",
+      "2008",
+      "2011",
+      "2016",
+      "2016",
+      "2019",
+      "2019",
+      "2023"
+    ],
+    "numero_legislaturas": 9,
+    "edad": 67
+  },
+  {
+    "codParlamentario": 33,
+    "nombre": "Noemí Santana Perera",
+    "partido": "SUMAR",
+    "provincia": "Palmas (Las)",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 41
+  },
+  {
+    "codParlamentario": 34,
+    "nombre": "Elvira Velasco Morillo",
+    "partido": "PP",
+    "provincia": "Zamora",
+    "legislaturas": [
+      "2004",
+      "2019",
+      "2019",
+      "2023"
+    ],
+    "numero_legislaturas": 4,
+    "edad": 57
+  },
+  {
+    "codParlamentario": 35,
+    "nombre": "José Zaragoza Alonso",
+    "partido": "PSC-PSOE",
+    "provincia": "Barcelona",
+    "legislaturas": [
+      "2011",
+      "2016",
+      "2016",
+      "2019",
+      "2019",
+      "2023"
+    ],
+    "numero_legislaturas": 6,
+    "edad": 64
+  },
+  {
+    "codParlamentario": 36,
+    "nombre": "Pedro Luis Huguet Tous",
+    "partido": "PP",
+    "provincia": "Tarragona",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 63
+  },
+  {
+    "codParlamentario": 37,
+    "nombre": "Antonio Hernando Vera",
+    "partido": "PSOE",
+    "provincia": "Almería",
+    "legislaturas": [
+      "2004",
+      "2008",
+      "2011",
+      "2016",
+      "2016",
+      "2023"
+    ],
+    "numero_legislaturas": 6,
+    "edad": 58
+  },
+  {
+    "codParlamentario": 38,
+    "nombre": "Cristina Valido García",
+    "partido": "CCa",
+    "provincia": "S/C Tenerife",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 56
+  },
+  {
+    "codParlamentario": 39,
+    "nombre": "María Araceli Poblador Pacheco",
+    "partido": "PSOE",
+    "provincia": "Alicante/Alacant",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 63
+  },
+  {
+    "codParlamentario": 40,
+    "nombre": "Juan Francisco Serrano Martínez",
+    "partido": "PSOE",
+    "provincia": "Jaén",
+    "legislaturas": [
+      "2019",
+      "2019",
+      "2023"
+    ],
+    "numero_legislaturas": 3,
+    "edad": 37
+  },
+  {
+    "codParlamentario": 41,
+    "nombre": "Beatriz Jiménez Linuesa",
+    "partido": "PP",
+    "provincia": "Cuenca",
+    "legislaturas": [
+      "2019",
+      "2023"
+    ],
+    "numero_legislaturas": 2,
+    "edad": 40
+  },
+  {
+    "codParlamentario": 42,
+    "nombre": "Irene Garrido Valenzuela",
+    "partido": "PP",
+    "provincia": "Pontevedra",
+    "legislaturas": [
+      "2011",
+      "2016",
+      "2016",
+      "2023"
+    ],
+    "numero_legislaturas": 4,
+    "edad": 65
+  },
+  {
+    "codParlamentario": 43,
+    "nombre": "Bella Verano Domínguez",
+    "partido": "PP",
+    "provincia": "Huelva",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 47
+  },
+  {
+    "codParlamentario": 44,
+    "nombre": "María del Socorro Cuesta Rodríguez",
+    "partido": "PP",
+    "provincia": "Segovia",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 52
+  },
+  {
+    "codParlamentario": 45,
+    "nombre": "Pablo Pérez Coronado",
+    "partido": "PP",
+    "provincia": "Segovia",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 41
+  },
+  {
+    "codParlamentario": 46,
+    "nombre": "Óscar Ramajo Prada",
+    "partido": "PP",
+    "provincia": "Zamora",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 49
+  },
+  {
+    "codParlamentario": 47,
+    "nombre": "Cristina Teniente Sánchez",
+    "partido": "PP",
+    "provincia": "Cáceres",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 58
+  },
+  {
+    "codParlamentario": 48,
+    "nombre": "Macarena Lorente Anaya",
+    "partido": "PP",
+    "provincia": "Cádiz",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 57
+  },
+  {
+    "codParlamentario": 49,
+    "nombre": "Maribel García López",
+    "partido": "PSOE",
+    "provincia": "Badajoz",
+    "legislaturas": [
+      "2019",
+      "2019",
+      "2023"
+    ],
+    "numero_legislaturas": 3,
+    "edad": 52
+  },
+  {
+    "codParlamentario": 50,
+    "nombre": "Raúl Díaz Marín",
+    "partido": "PSOE",
+    "provincia": "Rioja (La)",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 37
+  },
+  {
+    "codParlamentario": 51,
+    "nombre": "Patricia Rodríguez Calleja",
+    "partido": "PP",
+    "provincia": "Ávila",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 48
+  },
+  {
+    "codParlamentario": 52,
+    "nombre": "Juan José Aizcorbe Torra",
+    "partido": "VOX",
+    "provincia": "Barcelona",
+    "legislaturas": [
+      "2019",
+      "2023"
+    ],
+    "numero_legislaturas": 2,
+    "edad": 66
+  },
+  {
+    "codParlamentario": 53,
+    "nombre": "José María Sánchez García",
+    "partido": "VOX",
+    "provincia": "Alicante/Alacant",
+    "legislaturas": [
+      "2019",
+      "2023"
+    ],
+    "numero_legislaturas": 2,
+    "edad": 62
+  },
+  {
+    "codParlamentario": 54,
+    "nombre": "Artemi Rallo Lombarte",
+    "partido": "PSOE",
+    "provincia": "Castellón/Castelló",
+    "legislaturas": [
+      "2016",
+      "2016",
+      "2023"
+    ],
+    "numero_legislaturas": 3,
+    "edad": 60
+  },
+  {
+    "codParlamentario": 55,
+    "nombre": "Carlos Javier Floriano Corrales",
+    "partido": "PP",
+    "provincia": "Cáceres",
+    "legislaturas": [
+      "2008",
+      "2011",
+      "2016",
+      "2016",
+      "2023"
+    ],
+    "numero_legislaturas": 5,
+    "edad": 58
+  },
+  {
+    "codParlamentario": 56,
+    "nombre": "Luis Planas Puchades",
+    "partido": "PSOE",
+    "provincia": "Córdoba",
+    "legislaturas": [
+      "1982",
+      "1986",
+      "2019",
+      "2019",
+      "2023"
+    ],
+    "numero_legislaturas": 5,
+    "edad": 73
+  },
+  {
+    "codParlamentario": 57,
+    "nombre": "Santos Cerdán León",
+    "partido": "PSN-PSOE",
+    "provincia": "Navarra",
+    "legislaturas": [
+      "2019",
+      "2019",
+      "2023"
+    ],
+    "numero_legislaturas": 3,
+    "edad": 56
+  },
+  {
+    "codParlamentario": 58,
+    "nombre": "Susana Ros Martínez",
+    "partido": "PSOE",
+    "provincia": "Castellón/Castelló",
+    "legislaturas": [
+      "2008",
+      "2011",
+      "2019",
+      "2019",
+      "2023"
+    ],
+    "numero_legislaturas": 5,
+    "edad": 56
+  },
+  {
+    "codParlamentario": 59,
+    "nombre": "Antonio Román Jasanada",
+    "partido": "PP",
+    "provincia": "Guadalajara",
+    "legislaturas": [
+      "2000",
+      "2011",
+      "2023"
+    ],
+    "numero_legislaturas": 3,
+    "edad": 60
+  },
+  {
+    "codParlamentario": 60,
+    "nombre": "María Lourdes Ramírez Martín",
+    "partido": "PP",
+    "provincia": "Granada",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 46
+  },
+  {
+    "codParlamentario": 61,
+    "nombre": "Pablo Sáez Alonso-Muñumer",
+    "partido": "VOX",
+    "provincia": "Valladolid",
+    "legislaturas": [
+      "2019",
+      "2019",
+      "2023"
+    ],
+    "numero_legislaturas": 3,
+    "edad": 61
+  },
+  {
+    "codParlamentario": 62,
+    "nombre": "Andreu Martín Martínez",
+    "partido": "PSC-PSOE",
+    "provincia": "Tarragona",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 60
+  },
+  {
+    "codParlamentario": 63,
+    "nombre": "María Luz Martínez Seijo",
+    "partido": "PSOE",
+    "provincia": "Palencia",
+    "legislaturas": [
+      "2016",
+      "2016",
+      "2019",
+      "2019",
+      "2023"
+    ],
+    "numero_legislaturas": 5,
+    "edad": 57
+  },
+  {
+    "codParlamentario": 64,
+    "nombre": "José Luis Aceves Galindo",
+    "partido": "PSOE",
+    "provincia": "Segovia",
+    "legislaturas": [
+      "2019",
+      "2019",
+      "2023"
+    ],
+    "numero_legislaturas": 3,
+    "edad": 55
+  },
+  {
+    "codParlamentario": 65,
+    "nombre": "Carmen Fúnez de Gregorio",
+    "partido": "PP",
+    "provincia": "Ciudad Real",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 50
+  },
+  {
+    "codParlamentario": 66,
+    "nombre": "Esteban González Pons",
+    "partido": "PP",
+    "provincia": "Valencia/València",
+    "legislaturas": [
+      "2008",
+      "2011",
+      "2023"
+    ],
+    "numero_legislaturas": 3,
+    "edad": 61
+  },
+  {
+    "codParlamentario": 67,
+    "nombre": "Belén Hoyo Juliá",
+    "partido": "PP",
+    "provincia": "Valencia/València",
+    "legislaturas": [
+      "2011",
+      "2016",
+      "2016",
+      "2019",
+      "2019",
+      "2023"
+    ],
+    "numero_legislaturas": 6,
+    "edad": 41
+  },
+  {
+    "codParlamentario": 68,
+    "nombre": "Juan Carlos Ruiz Boix",
+    "partido": "PSOE",
+    "provincia": "Cádiz",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 51
+  },
+  {
+    "codParlamentario": 69,
+    "nombre": "Sofía Acedo Reyes",
+    "partido": "PP",
+    "provincia": "Melilla",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 40
+  },
+  {
+    "codParlamentario": 70,
+    "nombre": "José Ramírez del Río",
+    "partido": "VOX",
+    "provincia": "Córdoba",
+    "legislaturas": [
+      "2019",
+      "2019",
+      "2023"
+    ],
+    "numero_legislaturas": 3,
+    "edad": 52
+  },
+  {
+    "codParlamentario": 71,
+    "nombre": "María Isabel Prieto Serrano",
+    "partido": "PP",
+    "provincia": "Córdoba",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 52
+  },
+  {
+    "codParlamentario": 72,
+    "nombre": "María Carmen Sánchez Díaz",
+    "partido": "PSOE",
+    "provincia": "Cádiz",
+    "legislaturas": [
+      "2000",
+      "2004",
+      "2008",
+      "2011",
+      "2023"
+    ],
+    "numero_legislaturas": 5,
+    "edad": 57
+  },
+  {
+    "codParlamentario": 73,
+    "nombre": "Ángel López Maraver",
+    "partido": "VOX",
+    "provincia": "Guadalajara",
+    "legislaturas": [
+      "2019",
+      "2023"
+    ],
+    "numero_legislaturas": 2,
+    "edad": 41
+  },
+  {
+    "codParlamentario": 74,
+    "nombre": "Pedro Ignacio Gallardo Barrena",
+    "partido": "PP",
+    "provincia": "Cádiz",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 52
+  },
+  {
+    "codParlamentario": 75,
+    "nombre": "Ana Cobo Carmona",
+    "partido": "PSOE",
+    "provincia": "Jaén",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 52
+  },
+  {
+    "codParlamentario": 76,
+    "nombre": "María del Mar Vázquez Jiménez",
+    "partido": "PP",
+    "provincia": "Málaga",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 54
+  },
+  {
+    "codParlamentario": 77,
+    "nombre": "Jordi Salvador i Duch",
+    "partido": "ERC",
+    "provincia": "Tarragona",
+    "legislaturas": [
+      "2016",
+      "2016",
+      "2019",
+      "2019",
+      "2023"
+    ],
+    "numero_legislaturas": 5,
+    "edad": 61
+  },
+  {
+    "codParlamentario": 78,
+    "nombre": "Juan Antonio Valero Morales",
+    "partido": "SUMAR",
+    "provincia": "Málaga",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 44
+  },
+  {
+    "codParlamentario": 79,
+    "nombre": "Amador Marqués Atés",
+    "partido": "PSC-PSOE",
+    "provincia": "Lleida",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 41
+  },
+  {
+    "codParlamentario": 80,
+    "nombre": "Montse Mínguez García",
+    "partido": "PSC-PSOE",
+    "provincia": "Lleida",
+    "legislaturas": [
+      "2019",
+      "2019",
+      "2023"
+    ],
+    "numero_legislaturas": 3,
+    "edad": 49
+  },
+  {
+    "codParlamentario": 81,
+    "nombre": "Inés Plaza García",
+    "partido": "PSOE",
+    "provincia": "Almería",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 47
+  },
+  {
+    "codParlamentario": 82,
+    "nombre": "María Mercedes Fernández González",
+    "partido": "PP",
+    "provincia": "Asturias",
+    "legislaturas": [
+      "1993",
+      "1996",
+      "2000",
+      "2011",
+      "2023"
+    ],
+    "numero_legislaturas": 5,
+    "edad": 65
+  },
+  {
+    "codParlamentario": 83,
+    "nombre": "Raquel Sánchez Jiménez",
+    "partido": "PSC-PSOE",
+    "provincia": "Barcelona",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 50
+  },
+  {
+    "codParlamentario": 84,
+    "nombre": "Cristóbal Garre Murcia",
+    "partido": "PP",
+    "provincia": "Málaga",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 55
+  },
+  {
+    "codParlamentario": 85,
+    "nombre": "Mario Cortés Carballo",
+    "partido": "PP",
+    "provincia": "Málaga",
+    "legislaturas": [
+      "2019",
+      "2023"
+    ],
+    "numero_legislaturas": 2,
+    "edad": 48
+  },
+  {
+    "codParlamentario": 86,
+    "nombre": "Esther Gil de Reboleño Lastortres",
+    "partido": "SUMAR",
+    "provincia": "Cádiz",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 52
+  },
+  {
+    "codParlamentario": 87,
+    "nombre": "Lander Martínez Hierro",
+    "partido": "SUMAR",
+    "provincia": "Bizkaia",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 36
+  },
+  {
+    "codParlamentario": 88,
+    "nombre": "Isabel Gema Pérez Recuerda",
+    "partido": "PP",
+    "provincia": "Málaga",
+    "legislaturas": [
+      "2019",
+      "2023"
+    ],
+    "numero_legislaturas": 2,
+    "edad": 54
+  },
+  {
+    "codParlamentario": 89,
+    "nombre": "Ricardo Tarno Blanco",
+    "partido": "PP",
+    "provincia": "Sevilla",
+    "legislaturas": [
+      "2008",
+      "2011",
+      "2016",
+      "2016",
+      "2019",
+      "2023"
+    ],
+    "numero_legislaturas": 6,
+    "edad": 59
+  },
+  {
+    "codParlamentario": 90,
+    "nombre": "Óscar Puente Santiago",
+    "partido": "PSOE",
+    "provincia": "Valladolid",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 57
+  },
+  {
+    "codParlamentario": 91,
+    "nombre": "Luisa Sanz Martínez",
+    "partido": "PSOE",
+    "provincia": "Valladolid",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 55
+  },
+  {
+    "codParlamentario": 92,
+    "nombre": "Txema Guijarro García",
+    "partido": "SUMAR",
+    "provincia": "Alicante/Alacant",
+    "legislaturas": [
+      "2016",
+      "2016",
+      "2019",
+      "2019",
+      "2023"
+    ],
+    "numero_legislaturas": 5,
+    "edad": 50
+  },
+  {
+    "codParlamentario": 93,
+    "nombre": "Álvaro Morales Álvarez",
+    "partido": "PSOE",
+    "provincia": "Burgos",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 45
+  },
+  {
+    "codParlamentario": 94,
+    "nombre": "Arnau Ramírez Carner",
+    "partido": "PSC-PSOE",
+    "provincia": "Barcelona",
+    "legislaturas": [
+      "2019",
+      "2019",
+      "2023"
+    ],
+    "numero_legislaturas": 3,
+    "edad": 36
+  },
+  {
+    "codParlamentario": 95,
+    "nombre": "Esther Peña Camarero",
+    "partido": "PSOE",
+    "provincia": "Burgos",
+    "legislaturas": [
+      "2016",
+      "2016",
+      "2019",
+      "2019",
+      "2023"
+    ],
+    "numero_legislaturas": 5,
+    "edad": 45
+  },
+  {
+    "codParlamentario": 96,
+    "nombre": "Manuel Arribas Maroto",
+    "partido": "PSOE",
+    "provincia": "Ávila",
+    "legislaturas": [
+      "2019",
+      "2023"
+    ],
+    "numero_legislaturas": 2,
+    "edad": 39
+  },
+  {
+    "codParlamentario": 97,
+    "nombre": "Isabel Rodríguez García",
+    "partido": "PSOE",
+    "provincia": "Ciudad Real",
+    "legislaturas": [
+      "2011",
+      "2016",
+      "2016",
+      "2023"
+    ],
+    "numero_legislaturas": 4,
+    "edad": 44
+  },
+  {
+    "codParlamentario": 98,
+    "nombre": "Gonzalo Redondo Cárdenas",
+    "partido": "PSOE",
+    "provincia": "Ciudad Real",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 45
+  },
+  {
+    "codParlamentario": 99,
+    "nombre": "Javier Merino Martínez",
+    "partido": "PP",
+    "provincia": "Rioja (La)",
+    "legislaturas": [
+      "2019",
+      "2023"
+    ],
+    "numero_legislaturas": 2,
+    "edad": 46
+  },
+  {
+    "codParlamentario": 100,
+    "nombre": "César Joaquín Ramos Esteban",
+    "partido": "PSOE",
+    "provincia": "Cáceres",
+    "legislaturas": [
+      "2016",
+      "2016",
+      "2019",
+      "2019",
+      "2023"
+    ],
+    "numero_legislaturas": 5,
+    "edad": 50
+  },
+  {
+    "codParlamentario": 101,
+    "nombre": "Santi Rodríguez Serra",
+    "partido": "PP",
+    "provincia": "Barcelona",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 61
+  },
+  {
+    "codParlamentario": 102,
+    "nombre": "Antonio Martínez Gómez",
+    "partido": "PP",
+    "provincia": "Albacete",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 57
+  },
+  {
+    "codParlamentario": 103,
+    "nombre": "Trinidad Carmen Argota Castro",
+    "partido": "PSOE",
+    "provincia": "Sevilla",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 60
+  },
+  {
+    "codParlamentario": 104,
+    "nombre": "David García Gomis",
+    "partido": "VOX",
+    "provincia": "Alicante/Alacant",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 45
+  },
+  {
+    "codParlamentario": 105,
+    "nombre": "Adriana Maldonado López",
+    "partido": "PSN-PSOE",
+    "provincia": "Navarra",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 35
+  },
+  {
+    "codParlamentario": 106,
+    "nombre": "Carmen Andrés Añón",
+    "partido": "PSC-PSOE",
+    "provincia": "Barcelona",
+    "legislaturas": [
+      "2019",
+      "2019",
+      "2023"
+    ],
+    "numero_legislaturas": 3,
+    "edad": 61
+  },
+  {
+    "codParlamentario": 107,
+    "nombre": "Félix De las Cuevas Cortés",
+    "partido": "PP",
+    "provincia": "Cantabria",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 59
+  },
+  {
+    "codParlamentario": 108,
+    "nombre": "Alberto Fabra Part",
+    "partido": "PP",
+    "provincia": "Castellón/Castelló",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 61
+  },
+  {
+    "codParlamentario": 109,
+    "nombre": "Óscar Clavell López",
+    "partido": "PP",
+    "provincia": "Castellón/Castelló",
+    "legislaturas": [
+      "2016",
+      "2016",
+      "2019",
+      "2019",
+      "2023"
+    ],
+    "numero_legislaturas": 5,
+    "edad": 47
+  },
+  {
+    "codParlamentario": 110,
+    "nombre": "Marc Lamuà Estañol",
+    "partido": "PSC-PSOE",
+    "provincia": "Girona",
+    "legislaturas": [
+      "2016",
+      "2016",
+      "2019",
+      "2019",
+      "2023"
+    ],
+    "numero_legislaturas": 5,
+    "edad": 45
+  },
+  {
+    "codParlamentario": 111,
+    "nombre": "Blanca Cercas Mena",
+    "partido": "PSC-PSOE",
+    "provincia": "Girona",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 68
+  },
+  {
+    "codParlamentario": 112,
+    "nombre": "Rafaela Romero Pozo",
+    "partido": "PSE-EE (PSOE)",
+    "provincia": "Gipuzkoa",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 53
+  },
+  {
+    "codParlamentario": 113,
+    "nombre": "María Luisa García Gurrutxaga",
+    "partido": "PSE-EE (PSOE)",
+    "provincia": "Gipuzkoa",
+    "legislaturas": [
+      "2019",
+      "2023"
+    ],
+    "numero_legislaturas": 2,
+    "edad": 66
+  },
+  {
+    "codParlamentario": 114,
+    "nombre": "María Guijarro Ceballos",
+    "partido": "PSE-EE (PSOE)",
+    "provincia": "Bizkaia",
+    "legislaturas": [
+      "2019",
+      "2019",
+      "2023"
+    ],
+    "numero_legislaturas": 3,
+    "edad": 54
+  },
+  {
+    "codParlamentario": 115,
+    "nombre": "Javier José Folch Blanc",
+    "partido": "PP",
+    "provincia": "Huesca",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 58
+  },
+  {
+    "codParlamentario": 116,
+    "nombre": "Elisa Garrido Jiménez",
+    "partido": "PSOE",
+    "provincia": "Rioja (La)",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 49
+  },
+  {
+    "codParlamentario": 117,
+    "nombre": "Ignacio Gil Lázaro",
+    "partido": "VOX",
+    "provincia": "Valencia/València",
+    "legislaturas": [
+      "1982",
+      "1986",
+      "1993",
+      "1996",
+      "2000",
+      "2004",
+      "2008",
+      "2011",
+      "2019",
+      "2019",
+      "2023"
+    ],
+    "numero_legislaturas": 11,
+    "edad": 68
+  },
+  {
+    "codParlamentario": 118,
+    "nombre": "José Antonio Bermúdez de Castro Fernández",
+    "partido": "PP",
+    "provincia": "Salamanca",
+    "legislaturas": [
+      "1996",
+      "2000",
+      "2004",
+      "2008",
+      "2011",
+      "2016",
+      "2016",
+      "2019",
+      "2019",
+      "2023"
+    ],
+    "numero_legislaturas": 10,
+    "edad": 66
+  },
+  {
+    "codParlamentario": 119,
+    "nombre": "Violante Tomás Olivares",
+    "partido": "PP",
+    "provincia": "Murcia",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 64
+  },
+  {
+    "codParlamentario": 120,
+    "nombre": "Patxi López Álvarez",
+    "partido": "PSE-EE (PSOE)",
+    "provincia": "Bizkaia",
+    "legislaturas": [
+      "1986",
+      "2016",
+      "2016",
+      "2019",
+      "2019",
+      "2023"
+    ],
+    "numero_legislaturas": 6,
+    "edad": 66
+  },
+  {
+    "codParlamentario": 121,
+    "nombre": "Jacobo González-Robatto Perote",
+    "partido": "VOX",
+    "provincia": "Granada",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 38
+  },
+  {
+    "codParlamentario": 122,
+    "nombre": "Rafael Cofiño Fernández",
+    "partido": "SUMAR",
+    "provincia": "Asturias",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 56
+  },
+  {
+    "codParlamentario": 123,
+    "nombre": "Sergio Carlos Matos Castro",
+    "partido": "PSOE",
+    "provincia": "S/C Tenerife",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 49
+  },
+  {
+    "codParlamentario": 124,
+    "nombre": "Emilio Jesús Del Valle Rodríguez",
+    "partido": "VOX",
+    "provincia": "Cantabria",
+    "legislaturas": [
+      "2019",
+      "2023"
+    ],
+    "numero_legislaturas": 2,
+    "edad": 65
+  },
+  {
+    "codParlamentario": 125,
+    "nombre": "Enrique Fernando Santiago Romero",
+    "partido": "SUMAR",
+    "provincia": "Córdoba",
+    "legislaturas": [
+      "2019",
+      "2019",
+      "2023"
+    ],
+    "numero_legislaturas": 3,
+    "edad": 61
+  },
+  {
+    "codParlamentario": 126,
+    "nombre": "Francisco José Salazar Rodríguez",
+    "partido": "PSOE",
+    "provincia": "Sevilla",
+    "legislaturas": [
+      "2019",
+      "2019",
+      "2023"
+    ],
+    "numero_legislaturas": 3,
+    "edad": 57
+  },
+  {
+    "codParlamentario": 127,
+    "nombre": "José Luis Ábalos Meco",
+    "partido": "PSOE",
+    "provincia": "Valencia/València",
+    "legislaturas": [
+      "2008",
+      "2011",
+      "2016",
+      "2016",
+      "2019",
+      "2019",
+      "2023"
+    ],
+    "numero_legislaturas": 7,
+    "edad": 66
+  },
+  {
+    "codParlamentario": 128,
+    "nombre": "José Antonio Rodríguez Salas",
+    "partido": "PSOE",
+    "provincia": "Granada",
+    "legislaturas": [
+      "2019",
+      "2019",
+      "2023"
+    ],
+    "numero_legislaturas": 3,
+    "edad": 60
+  },
+  {
+    "codParlamentario": 129,
+    "nombre": "Modesto Pose Mesura",
+    "partido": "PsdeG-PSOE",
+    "provincia": "Pontevedra",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 70
+  },
+  {
+    "codParlamentario": 130,
+    "nombre": "Herminio Rufino Sancho Íñiguez",
+    "partido": "PSOE",
+    "provincia": "Teruel",
+    "legislaturas": [
+      "2019",
+      "2019",
+      "2023"
+    ],
+    "numero_legislaturas": 3,
+    "edad": 59
+  },
+  {
+    "codParlamentario": 131,
+    "nombre": "Juan Diego Requena Ruiz",
+    "partido": "PP",
+    "provincia": "Jaén",
+    "legislaturas": [
+      "2019",
+      "2023"
+    ],
+    "numero_legislaturas": 2,
+    "edad": 45
+  },
+  {
+    "codParlamentario": 132,
+    "nombre": "Joan Mesquida Mayans",
+    "partido": "PP",
+    "provincia": "Balears (Illes)",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 47
+  },
+  {
+    "codParlamentario": 133,
+    "nombre": "Ada Santana Aguilera",
+    "partido": "PSOE",
+    "provincia": "Palmas (Las)",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 27
+  },
+  {
+    "codParlamentario": 134,
+    "nombre": "Alicia Álvarez González",
+    "partido": "PSOE",
+    "provincia": "S/C Tenerife",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 44
+  },
+  {
+    "codParlamentario": 135,
+    "nombre": "David Regades Fernández",
+    "partido": "PsdeG-PSOE",
+    "provincia": "Pontevedra",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 52
+  },
+  {
+    "codParlamentario": 136,
+    "nombre": "Cristina Agüera Gago",
+    "partido": "PP",
+    "provincia": "Barcelona",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 35
+  },
+  {
+    "codParlamentario": 137,
+    "nombre": "Isabel Iniesta Egido",
+    "partido": "PSOE",
+    "provincia": "Albacete",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 36
+  },
+  {
+    "codParlamentario": 138,
+    "nombre": "Emilio Sáez Cruz",
+    "partido": "PSOE",
+    "provincia": "Albacete",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 56
+  },
+  {
+    "codParlamentario": 139,
+    "nombre": "María Adrio Taracido",
+    "partido": "PsdeG-PSOE",
+    "provincia": "Pontevedra",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 69
+  },
+  {
+    "codParlamentario": 140,
+    "nombre": "Alfonso Rodríguez Gómez de Celis",
+    "partido": "PSOE",
+    "provincia": "Sevilla",
+    "legislaturas": [
+      "2019",
+      "2019",
+      "2023"
+    ],
+    "numero_legislaturas": 3,
+    "edad": 55
+  },
+  {
+    "codParlamentario": 141,
+    "nombre": "Javier Noriega Gómez",
+    "partido": "PP",
+    "provincia": "Cantabria",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 58
+  },
+  {
+    "codParlamentario": 142,
+    "nombre": "Luc Andre Diouf Dioh",
+    "partido": "PSOE",
+    "provincia": "Palmas (Las)",
+    "legislaturas": [
+      "2019",
+      "2019",
+      "2023"
+    ],
+    "numero_legislaturas": 3,
+    "edad": 60
+  },
+  {
+    "codParlamentario": 143,
+    "nombre": "Beatriz Álvarez Fanjul",
+    "partido": "PP",
+    "provincia": "Bizkaia",
+    "legislaturas": [
+      "2019",
+      "2023"
+    ],
+    "numero_legislaturas": 2,
+    "edad": 34
+  },
+  {
+    "codParlamentario": 144,
+    "nombre": "José Ramón Gómez Besteiro",
+    "partido": "PsdeG-PSOE",
+    "provincia": "Lugo",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 58
+  },
+  {
+    "codParlamentario": 145,
+    "nombre": "Isabel María Borrego Cortés",
+    "partido": "PP",
+    "provincia": "Murcia",
+    "legislaturas": [
+      "2011",
+      "2016",
+      "2016",
+      "2019",
+      "2019",
+      "2023"
+    ],
+    "numero_legislaturas": 6,
+    "edad": 57
+  },
+  {
+    "codParlamentario": 146,
+    "nombre": "Margarita Martín Rodríguez",
+    "partido": "PsdeG-PSOE",
+    "provincia": "Ourense",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 68
+  },
+  {
+    "codParlamentario": 147,
+    "nombre": "Miquel Iceta i Llorens",
+    "partido": "PSC-PSOE",
+    "provincia": "Barcelona",
+    "legislaturas": [
+      "1996",
+      "2023"
+    ],
+    "numero_legislaturas": 2,
+    "edad": 65
+  },
+  {
+    "codParlamentario": 148,
+    "nombre": "Sergio Sayas López",
+    "partido": "PP",
+    "provincia": "Navarra",
+    "legislaturas": [
+      "2019",
+      "2019",
+      "2023"
+    ],
+    "numero_legislaturas": 3,
+    "edad": 46
+  },
+  {
+    "codParlamentario": 149,
+    "nombre": "Alberto Catalán Higueras",
+    "partido": "UPN",
+    "provincia": "Navarra",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 63
+  },
+  {
+    "codParlamentario": 150,
+    "nombre": "Pedro Samuel Martín García",
+    "partido": "PP",
+    "provincia": "Salamanca",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 61
+  },
+  {
+    "codParlamentario": 151,
+    "nombre": "María Jesús Moro Almaraz",
+    "partido": "PP",
+    "provincia": "Salamanca",
+    "legislaturas": [
+      "2011",
+      "2016",
+      "2016",
+      "2019",
+      "2019",
+      "2023"
+    ],
+    "numero_legislaturas": 6,
+    "edad": 64
+  },
+  {
+    "codParlamentario": 152,
+    "nombre": "Carlos Alberto Sánchez Ojeda",
+    "partido": "PP",
+    "provincia": "Palmas (Las)",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 55
+  },
+  {
+    "codParlamentario": 153,
+    "nombre": "Adriana Lastra Fernández",
+    "partido": "PSOE",
+    "provincia": "Asturias",
+    "legislaturas": [
+      "2016",
+      "2016",
+      "2019",
+      "2019",
+      "2023"
+    ],
+    "numero_legislaturas": 5,
+    "edad": 46
+  },
+  {
+    "codParlamentario": 154,
+    "nombre": "Rafaela Crespín Rubio",
+    "partido": "PSOE",
+    "provincia": "Córdoba",
+    "legislaturas": [
+      "2019",
+      "2019",
+      "2023"
+    ],
+    "numero_legislaturas": 3,
+    "edad": 49
+  },
+  {
+    "codParlamentario": 155,
+    "nombre": "Laura María Lima García",
+    "partido": "PP",
+    "provincia": "S/C Tenerife",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 33
+  },
+  {
+    "codParlamentario": 156,
+    "nombre": "Juan Antonio Rojas Manrique",
+    "partido": "PP",
+    "provincia": "S/C Tenerife",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 42
+  },
+  {
+    "codParlamentario": 157,
+    "nombre": "Engracia Rivera Arias",
+    "partido": "SUMAR",
+    "provincia": "Sevilla",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 54
+  },
+  {
+    "codParlamentario": 158,
+    "nombre": "Milagros Tolón Jaime",
+    "partido": "PSOE",
+    "provincia": "Toledo",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 57
+  },
+  {
+    "codParlamentario": 159,
+    "nombre": "Carlos Flores Juberías",
+    "partido": "VOX",
+    "provincia": "Valencia/València",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 61
+  },
+  {
+    "codParlamentario": 160,
+    "nombre": "Cristina Abades Martínez",
+    "partido": "PP",
+    "provincia": "Lugo",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 54
+  },
+  {
+    "codParlamentario": 161,
+    "nombre": "Jaime Eduardo de Olano Vela",
+    "partido": "PP",
+    "provincia": "Lugo",
+    "legislaturas": [
+      "2011",
+      "2016",
+      "2016",
+      "2019",
+      "2019",
+      "2023"
+    ],
+    "numero_legislaturas": 6,
+    "edad": 55
+  },
+  {
+    "codParlamentario": 162,
+    "nombre": "Javier Celaya Brey",
+    "partido": "PP",
+    "provincia": "Ceuta",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 54
+  },
+  {
+    "codParlamentario": 163,
+    "nombre": "Silverio Argüelles García",
+    "partido": "PP",
+    "provincia": "Asturias",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 49
+  },
+  {
+    "codParlamentario": 164,
+    "nombre": "Àgueda Micó Micó",
+    "partido": "SUMAR",
+    "provincia": "Valencia/València",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 47
+  },
+  {
+    "codParlamentario": 165,
+    "nombre": "Alberto Ibáñez Mezquita",
+    "partido": "SUMAR",
+    "provincia": "Valencia/València",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 34
+  },
+  {
+    "codParlamentario": 166,
+    "nombre": "Nahuel González López",
+    "partido": "SUMAR",
+    "provincia": "Valencia/València",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 36
+  },
+  {
+    "codParlamentario": 167,
+    "nombre": "María Luisa Faneca López",
+    "partido": "PSOE",
+    "provincia": "Huelva",
+    "legislaturas": [
+      "2019",
+      "2019",
+      "2023"
+    ],
+    "numero_legislaturas": 3,
+    "edad": 68
+  },
+  {
+    "codParlamentario": 168,
+    "nombre": "Gabriel Cruz Santana",
+    "partido": "PSOE",
+    "provincia": "Huelva",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 61
+  },
+  {
+    "codParlamentario": 169,
+    "nombre": "Martina Velarde Gómez",
+    "partido": "SUMAR",
+    "provincia": "Granada",
+    "legislaturas": [
+      "2019",
+      "2019",
+      "2023"
+    ],
+    "numero_legislaturas": 3,
+    "edad": 46
+  },
+  {
+    "codParlamentario": 170,
+    "nombre": "Patricia Blanquer Alcaraz",
+    "partido": "PSOE",
+    "provincia": "Alicante/Alacant",
+    "legislaturas": [
+      "2011",
+      "2016",
+      "2016",
+      "2019",
+      "2019",
+      "2023"
+    ],
+    "numero_legislaturas": 6,
+    "edad": 52
+  },
+  {
+    "codParlamentario": 171,
+    "nombre": "Valle Mellado Sierra",
+    "partido": "PSC-PSOE",
+    "provincia": "Tarragona",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 48
+  },
+  {
+    "codParlamentario": 172,
+    "nombre": "Agustín Parra Gallego",
+    "partido": "PP",
+    "provincia": "Barcelona",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 55
+  },
+  {
+    "codParlamentario": 173,
+    "nombre": "Nacho Martín Blanco",
+    "partido": "PP",
+    "provincia": "Barcelona",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 43
+  },
+  {
+    "codParlamentario": 174,
+    "nombre": "Llanos De Luna Tobarra",
+    "partido": "PP",
+    "provincia": "Barcelona",
+    "legislaturas": [
+      "2019",
+      "2023"
+    ],
+    "numero_legislaturas": 2,
+    "edad": 65
+  },
+  {
+    "codParlamentario": 175,
+    "nombre": "Rafael Benigno Belmonte Gómez",
+    "partido": "PP",
+    "provincia": "Sevilla",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 48
+  },
+  {
+    "codParlamentario": 176,
+    "nombre": "Alberto Rojo Blas",
+    "partido": "PSOE",
+    "provincia": "Guadalajara",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 50
+  },
+  {
+    "codParlamentario": 177,
+    "nombre": "Maribel Sánchez Torregrosa",
+    "partido": "PP",
+    "provincia": "Almería",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 46
+  },
+  {
+    "codParlamentario": 178,
+    "nombre": "Begoña Nasarre Oliva",
+    "partido": "PSOE",
+    "provincia": "Huesca",
+    "legislaturas": [
+      "2019",
+      "2019",
+      "2023"
+    ],
+    "numero_legislaturas": 3,
+    "edad": 47
+  },
+  {
+    "codParlamentario": 179,
+    "nombre": "Pablo Vázquez Vega",
+    "partido": "PP",
+    "provincia": "Madrid",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 60
+  },
+  {
+    "codParlamentario": 180,
+    "nombre": "Ángel Ibáñez Hernando",
+    "partido": "PP",
+    "provincia": "Burgos",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 51
+  },
+  {
+    "codParlamentario": 181,
+    "nombre": "Miguel Ángel Quintanilla Navarro",
+    "partido": "PP",
+    "provincia": "Madrid",
+    "legislaturas": [
+      "2019",
+      "2023"
+    ],
+    "numero_legislaturas": 2,
+    "edad": 58
+  },
+  {
+    "codParlamentario": 182,
+    "nombre": "Joaquín Martínez Salmerón",
+    "partido": "PSOE",
+    "provincia": "Murcia",
+    "legislaturas": [
+      "2019",
+      "2023"
+    ],
+    "numero_legislaturas": 2,
+    "edad": 55
+  },
+  {
+    "codParlamentario": 183,
+    "nombre": "María Pilar Alía Aguado",
+    "partido": "PP",
+    "provincia": "Toledo",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 56
+  },
+  {
+    "codParlamentario": 184,
+    "nombre": "José Manuel Velasco Retamosa",
+    "partido": "PP",
+    "provincia": "Toledo",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 55
+  },
+  {
+    "codParlamentario": 185,
+    "nombre": "Francina Armengol Socias",
+    "partido": "PSIB-PSOE",
+    "provincia": "Balears (Illes)",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 54
+  },
+  {
+    "codParlamentario": 186,
+    "nombre": "Milena Herrera García",
+    "partido": "PSIB-PSOE",
+    "provincia": "Balears (Illes)",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 50
+  },
+  {
+    "codParlamentario": 187,
+    "nombre": "María Dolores Corujo Berriel",
+    "partido": "PSOE",
+    "provincia": "Palmas (Las)",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 48
+  },
+  {
+    "codParlamentario": 188,
+    "nombre": "José Vicente Marí Bosó",
+    "partido": "PP",
+    "provincia": "Balears (Illes)",
+    "legislaturas": [
+      "2016",
+      "2016",
+      "2023"
+    ],
+    "numero_legislaturas": 3,
+    "edad": 55
+  },
+  {
+    "codParlamentario": 189,
+    "nombre": "Pedro Sánchez Pérez-Castejón",
+    "partido": "PSOE",
+    "provincia": "Madrid",
+    "legislaturas": [
+      "2008",
+      "2011",
+      "2016",
+      "2016",
+      "2019",
+      "2019",
+      "2023"
+    ],
+    "numero_legislaturas": 7,
+    "edad": 53
+  },
+  {
+    "codParlamentario": 190,
+    "nombre": "Pepe Mercadal Baquero",
+    "partido": "PSIB-PSOE",
+    "provincia": "Balears (Illes)",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 31
+  },
+  {
+    "codParlamentario": 191,
+    "nombre": "Isaura Leal Fernández",
+    "partido": "PSOE",
+    "provincia": "Madrid",
+    "legislaturas": [
+      "2019",
+      "2019",
+      "2023"
+    ],
+    "numero_legislaturas": 3,
+    "edad": 66
+  },
+  {
+    "codParlamentario": 192,
+    "nombre": "Vicenç Vidal Matas",
+    "partido": "SUMAR",
+    "provincia": "Balears (Illes)",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 45
+  },
+  {
+    "codParlamentario": 193,
+    "nombre": "José María Figaredo Álvarez-Sala",
+    "partido": "VOX",
+    "provincia": "Asturias",
+    "legislaturas": [
+      "2019",
+      "2019",
+      "2023"
+    ],
+    "numero_legislaturas": 3,
+    "edad": 37
+  },
+  {
+    "codParlamentario": 194,
+    "nombre": "Ignacio Hoces Íñiguez",
+    "partido": "VOX",
+    "provincia": "Badajoz",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 42
+  },
+  {
+    "codParlamentario": 195,
+    "nombre": "Roberto García Morís",
+    "partido": "PSOE",
+    "provincia": "Asturias",
+    "legislaturas": [
+      "2019",
+      "2019",
+      "2023"
+    ],
+    "numero_legislaturas": 3,
+    "edad": 43
+  },
+  {
+    "codParlamentario": 196,
+    "nombre": "Ana Belén Vázquez Blanco",
+    "partido": "PP",
+    "provincia": "Ourense",
+    "legislaturas": [
+      "2000",
+      "2004",
+      "2008",
+      "2011",
+      "2016",
+      "2019",
+      "2019",
+      "2023"
+    ],
+    "numero_legislaturas": 8,
+    "edad": 50
+  },
+  {
+    "codParlamentario": 197,
+    "nombre": "Rosa Quintana Carballo",
+    "partido": "PP",
+    "provincia": "Ourense",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 66
+  },
+  {
+    "codParlamentario": 198,
+    "nombre": "Tristana María Moraleja Gómez",
+    "partido": "PP",
+    "provincia": "Coruña (A)",
+    "legislaturas": [
+      "2011",
+      "2016",
+      "2019",
+      "2019",
+      "2023"
+    ],
+    "numero_legislaturas": 5,
+    "edad": 54
+  },
+  {
+    "codParlamentario": 199,
+    "nombre": "Pedro Puy Fraga",
+    "partido": "PP",
+    "provincia": "Pontevedra",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 63
+  },
+  {
+    "codParlamentario": 200,
+    "nombre": "Marta González Vázquez",
+    "partido": "PP",
+    "provincia": "Coruña (A)",
+    "legislaturas": [
+      "2011",
+      "2016",
+      "2016",
+      "2019",
+      "2019",
+      "2023"
+    ],
+    "numero_legislaturas": 6,
+    "edad": 60
+  },
+  {
+    "codParlamentario": 201,
+    "nombre": "Jorge Pueyo Sanz",
+    "partido": "SUMAR",
+    "provincia": "Zaragoza",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 30
+  },
+  {
+    "codParlamentario": 202,
+    "nombre": "Rafael Antonio Hernando Fraile",
+    "partido": "PP",
+    "provincia": "Almería",
+    "legislaturas": [
+      "1993",
+      "1996",
+      "2000",
+      "2004",
+      "2008",
+      "2011",
+      "2016",
+      "2016",
+      "2023"
+    ],
+    "numero_legislaturas": 9,
+    "edad": 64
+  },
+  {
+    "codParlamentario": 203,
+    "nombre": "Lourdes Méndez Monasterio",
+    "partido": "VOX",
+    "provincia": "Murcia",
+    "legislaturas": [
+      "2004",
+      "2008",
+      "2011",
+      "2019",
+      "2019",
+      "2023"
+    ],
+    "numero_legislaturas": 6,
+    "edad": 68
+  },
+  {
+    "codParlamentario": 204,
+    "nombre": "María Sandra Moneo Díez",
+    "partido": "PP",
+    "provincia": "Burgos",
+    "legislaturas": [
+      "1996",
+      "2000",
+      "2004",
+      "2008",
+      "2011",
+      "2016",
+      "2016",
+      "2019",
+      "2019",
+      "2023"
+    ],
+    "numero_legislaturas": 10,
+    "edad": 56
+  },
+  {
+    "codParlamentario": 205,
+    "nombre": "Javier De Andrés Guerra",
+    "partido": "PP",
+    "provincia": "Araba/Álava",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 58
+  },
+  {
+    "codParlamentario": 206,
+    "nombre": "Miguel Ángel Sastre Uyá",
+    "partido": "PP",
+    "provincia": "Cádiz",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 29
+  },
+  {
+    "codParlamentario": 207,
+    "nombre": "Jorge Campos Asensi",
+    "partido": "VOX",
+    "provincia": "Balears (Illes)",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 50
+  },
+  {
+    "codParlamentario": 208,
+    "nombre": "Enrique Belda Pérez-Pedrero",
+    "partido": "PP",
+    "provincia": "Ciudad Real",
+    "legislaturas": [
+      "2000",
+      "2023"
+    ],
+    "numero_legislaturas": 2,
+    "edad": 56
+  },
+  {
+    "codParlamentario": 209,
+    "nombre": "Elías Bendodo Benasayag",
+    "partido": "PP",
+    "provincia": "Málaga",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 51
+  },
+  {
+    "codParlamentario": 210,
+    "nombre": "Julia Parra Aparicio",
+    "partido": "PP",
+    "provincia": "Alicante/Alacant",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 52
+  },
+  {
+    "codParlamentario": 211,
+    "nombre": "Joaquín Melgarejo Moreno",
+    "partido": "PP",
+    "provincia": "Alicante/Alacant",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 65
+  },
+  {
+    "codParlamentario": 212,
+    "nombre": "Sandra Pascual Rocamora",
+    "partido": "PP",
+    "provincia": "Alicante/Alacant",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 33
+  },
+  {
+    "codParlamentario": 213,
+    "nombre": "Ana Martínez Labella",
+    "partido": "PP",
+    "provincia": "Almería",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 53
+  },
+  {
+    "codParlamentario": 214,
+    "nombre": "Tomás Fernández Ríos",
+    "partido": "VOX",
+    "provincia": "Huelva",
+    "legislaturas": [
+      "2019",
+      "2023"
+    ],
+    "numero_legislaturas": 2,
+    "edad": 56
+  },
+  {
+    "codParlamentario": 215,
+    "nombre": "Carmen Navarro Lacoba",
+    "partido": "PP",
+    "provincia": "Albacete",
+    "legislaturas": [
+      "2016",
+      "2016",
+      "2019",
+      "2019",
+      "2023"
+    ],
+    "numero_legislaturas": 5,
+    "edad": 47
+  },
+  {
+    "codParlamentario": 216,
+    "nombre": "Macarena Montesinos de Miguel",
+    "partido": "PP",
+    "provincia": "Alicante/Alacant",
+    "legislaturas": [
+      "2004",
+      "2008",
+      "2011",
+      "2019",
+      "2019",
+      "2023"
+    ],
+    "numero_legislaturas": 6,
+    "edad": 64
+  },
+  {
+    "codParlamentario": 217,
+    "nombre": "César Sánchez Pérez",
+    "partido": "PP",
+    "provincia": "Alicante/Alacant",
+    "legislaturas": [
+      "2019",
+      "2019",
+      "2023"
+    ],
+    "numero_legislaturas": 3,
+    "edad": 47
+  },
+  {
+    "codParlamentario": 218,
+    "nombre": "Carmen Martínez Ramírez",
+    "partido": "PSOE",
+    "provincia": "Valencia/València",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 63
+  },
+  {
+    "codParlamentario": 219,
+    "nombre": "Vicent Manuel Sarrià Morell",
+    "partido": "PSOE",
+    "provincia": "Valencia/València",
+    "legislaturas": [
+      "2019",
+      "2019",
+      "2023"
+    ],
+    "numero_legislaturas": 3,
+    "edad": 58
+  },
+  {
+    "codParlamentario": 220,
+    "nombre": "Marta Trenzano Rubio",
+    "partido": "PSOE",
+    "provincia": "Valencia/València",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 42
+  },
+  {
+    "codParlamentario": 221,
+    "nombre": "Inés Granollers Cunillera",
+    "partido": "ERC",
+    "provincia": "Lleida",
+    "legislaturas": [
+      "2019",
+      "2019",
+      "2023"
+    ],
+    "numero_legislaturas": 3,
+    "edad": 55
+  },
+  {
+    "codParlamentario": 222,
+    "nombre": "Francesc-Marc Álvaro Vidal",
+    "partido": "ERC",
+    "provincia": "Barcelona",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 58
+  },
+  {
+    "codParlamentario": 223,
+    "nombre": "Pilar Vallugera Balañà",
+    "partido": "ERC",
+    "provincia": "Barcelona",
+    "legislaturas": [
+      "2019",
+      "2023"
+    ],
+    "numero_legislaturas": 2,
+    "edad": 58
+  },
+  {
+    "codParlamentario": 224,
+    "nombre": "Teresa Jordà i Roura",
+    "partido": "ERC",
+    "provincia": "Barcelona",
+    "legislaturas": [
+      "2011",
+      "2016",
+      "2016",
+      "2023"
+    ],
+    "numero_legislaturas": 4,
+    "edad": 53
+  },
+  {
+    "codParlamentario": 225,
+    "nombre": "Carlos Martín Urriza",
+    "partido": "SUMAR",
+    "provincia": "Madrid",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 57
+  },
+  {
+    "codParlamentario": 226,
+    "nombre": "Begoña García Bernal",
+    "partido": "PSOE",
+    "provincia": "Cáceres",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 55
+  },
+  {
+    "codParlamentario": 227,
+    "nombre": "Luis Alberto Marín González",
+    "partido": "PP",
+    "provincia": "Murcia",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 56
+  },
+  {
+    "codParlamentario": 228,
+    "nombre": "Juan Antonio González Gracia",
+    "partido": "PSOE",
+    "provincia": "Badajoz",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 47
+  },
+  {
+    "codParlamentario": 229,
+    "nombre": "Rafael Simancas Simancas",
+    "partido": "PSOE",
+    "provincia": "Madrid",
+    "legislaturas": [
+      "2008",
+      "2011",
+      "2016",
+      "2016",
+      "2019",
+      "2019",
+      "2023"
+    ],
+    "numero_legislaturas": 7,
+    "edad": 59
+  },
+  {
+    "codParlamentario": 230,
+    "nombre": "Francisco Lucas Ayala",
+    "partido": "PSOE",
+    "provincia": "Murcia",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 36
+  },
+  {
+    "codParlamentario": 231,
+    "nombre": "Caridad Rives Arcayna",
+    "partido": "PSOE",
+    "provincia": "Murcia",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 53
+  },
+  {
+    "codParlamentario": 232,
+    "nombre": "Sergio Gutiérrez Prieto",
+    "partido": "PSOE",
+    "provincia": "Toledo",
+    "legislaturas": [
+      "2019",
+      "2019",
+      "2023"
+    ],
+    "numero_legislaturas": 3,
+    "edad": 43
+  },
+  {
+    "codParlamentario": 233,
+    "nombre": "Margarita Robles Fernández",
+    "partido": "PSOE",
+    "provincia": "Madrid",
+    "legislaturas": [
+      "2016",
+      "2019",
+      "2019",
+      "2023"
+    ],
+    "numero_legislaturas": 4,
+    "edad": 69
+  },
+  {
+    "codParlamentario": 234,
+    "nombre": "María de las Mercedes Cantalapiedra Álvarez",
+    "partido": "PP",
+    "provincia": "Valladolid",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 60
+  },
+  {
+    "codParlamentario": 235,
+    "nombre": "Jimena Delgado-Taramona Hernández",
+    "partido": "PP",
+    "provincia": "Palmas (Las)",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 53
+  },
+  {
+    "codParlamentario": 236,
+    "nombre": "Pedro Muñoz Abrines",
+    "partido": "PP",
+    "provincia": "Madrid",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 58
+  },
+  {
+    "codParlamentario": 237,
+    "nombre": "Carmen Calvo Poyato",
+    "partido": "PSOE",
+    "provincia": "Granada",
+    "legislaturas": [
+      "2004",
+      "2008",
+      "2019",
+      "2019",
+      "2023"
+    ],
+    "numero_legislaturas": 5,
+    "edad": 68
+  },
+  {
+    "codParlamentario": 238,
+    "nombre": "Néstor Rego Candamil",
+    "partido": "BNG",
+    "provincia": "Coruña (A)",
+    "legislaturas": [
+      "2019",
+      "2023"
+    ],
+    "numero_legislaturas": 2,
+    "edad": 63
+  },
+  {
+    "codParlamentario": 239,
+    "nombre": "Isidre Gavin i Valls",
+    "partido": "JxCAT-JUNTS",
+    "provincia": "Lleida",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 62
+  },
+  {
+    "codParlamentario": 240,
+    "nombre": "Eduard Pujol Bonell",
+    "partido": "JxCAT-JUNTS",
+    "provincia": "Barcelona",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 56
+  },
+  {
+    "codParlamentario": 241,
+    "nombre": "Míriam Nogueras i Camero",
+    "partido": "JxCAT-JUNTS",
+    "provincia": "Barcelona",
+    "legislaturas": [
+      "2016",
+      "2016",
+      "2019",
+      "2019",
+      "2023"
+    ],
+    "numero_legislaturas": 5,
+    "edad": 45
+  },
+  {
+    "codParlamentario": 242,
+    "nombre": "Josep Maria Cervera Pinart",
+    "partido": "JxCAT-JUNTS",
+    "provincia": "Girona",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 57
+  },
+  {
+    "codParlamentario": 243,
+    "nombre": "Pilar Calvo Gómez",
+    "partido": "JxCAT-JUNTS",
+    "provincia": "Barcelona",
+    "legislaturas": [
+      "2019",
+      "2023"
+    ],
+    "numero_legislaturas": 2,
+    "edad": 62
+  },
+  {
+    "codParlamentario": 244,
+    "nombre": "Josep Maria Cruset Domènech",
+    "partido": "JxCAT-JUNTS",
+    "provincia": "Tarragona",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 50
+  },
+  {
+    "codParlamentario": 245,
+    "nombre": "Marta Madrenas i Mir",
+    "partido": "JxCAT-JUNTS",
+    "provincia": "Girona",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 58
+  },
+  {
+    "codParlamentario": 246,
+    "nombre": "Esperanza Reynal Reillo",
+    "partido": "PP",
+    "provincia": "Valencia/València",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 62
+  },
+  {
+    "codParlamentario": 247,
+    "nombre": "Carlos Gil Santiago",
+    "partido": "PP",
+    "provincia": "Valencia/València",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 56
+  },
+  {
+    "codParlamentario": 248,
+    "nombre": "Fernando De Rosa Torner",
+    "partido": "PP",
+    "provincia": "Valencia/València",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 66
+  },
+  {
+    "codParlamentario": 249,
+    "nombre": "Blanca Armario González",
+    "partido": "VOX",
+    "provincia": "Cádiz",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 45
+  },
+  {
+    "codParlamentario": 250,
+    "nombre": "Pedro Navarro López",
+    "partido": "PP",
+    "provincia": "Zaragoza",
+    "legislaturas": [
+      "2019",
+      "2023"
+    ],
+    "numero_legislaturas": 2,
+    "edad": 48
+  },
+  {
+    "codParlamentario": 251,
+    "nombre": "María del Mar González Bella",
+    "partido": "PP",
+    "provincia": "Zaragoza",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 47
+  },
+  {
+    "codParlamentario": 252,
+    "nombre": "Javier Alfonso Cendón",
+    "partido": "PSOE",
+    "provincia": "León",
+    "legislaturas": [
+      "2019",
+      "2019",
+      "2023"
+    ],
+    "numero_legislaturas": 3,
+    "edad": 42
+  },
+  {
+    "codParlamentario": 253,
+    "nombre": "Félix Bolaños García",
+    "partido": "PSOE",
+    "provincia": "Madrid",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 50
+  },
+  {
+    "codParlamentario": 254,
+    "nombre": "Alma Alfonso Silvestre",
+    "partido": "PP",
+    "provincia": "Valencia/València",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 42
+  },
+  {
+    "codParlamentario": 255,
+    "nombre": "Guillermo Mariscal Anaya",
+    "partido": "PP",
+    "provincia": "Palmas (Las)",
+    "legislaturas": [
+      "2004",
+      "2008",
+      "2011",
+      "2016",
+      "2016",
+      "2019",
+      "2019",
+      "2023"
+    ],
+    "numero_legislaturas": 8,
+    "edad": 51
+  },
+  {
+    "codParlamentario": 256,
+    "nombre": "Andrés Alberto Rodríguez Almeida",
+    "partido": "VOX",
+    "provincia": "Palmas (Las)",
+    "legislaturas": [
+      "2019",
+      "2023"
+    ],
+    "numero_legislaturas": 2,
+    "edad": 47
+  },
+  {
+    "codParlamentario": 257,
+    "nombre": "Obdulia Taboadela Álvarez",
+    "partido": "PsdeG-PSOE",
+    "provincia": "Coruña (A)",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 61
+  },
+  {
+    "codParlamentario": 258,
+    "nombre": "Borja Sémper Pascual",
+    "partido": "PP",
+    "provincia": "Madrid",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 49
+  },
+  {
+    "codParlamentario": 259,
+    "nombre": "Carlos Aragonés Mendiguchía",
+    "partido": "PP",
+    "provincia": "Madrid",
+    "legislaturas": [
+      "1993",
+      "1996",
+      "2000",
+      "2004",
+      "2008",
+      "2011",
+      "2019",
+      "2023"
+    ],
+    "numero_legislaturas": 8,
+    "edad": 69
+  },
+  {
+    "codParlamentario": 260,
+    "nombre": "Bartolomé Madrid Olmo",
+    "partido": "PP",
+    "provincia": "Córdoba",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 61
+  },
+  {
+    "codParlamentario": 261,
+    "nombre": "Óscar López Águeda",
+    "partido": "PSOE",
+    "provincia": "Madrid",
+    "legislaturas": [
+      "2004",
+      "2008",
+      "2023"
+    ],
+    "numero_legislaturas": 3,
+    "edad": 52
+  },
+  {
+    "codParlamentario": 262,
+    "nombre": "Ione Belarra Urteaga",
+    "partido": "SUMAR",
+    "provincia": "Madrid",
+    "legislaturas": [
+      "2016",
+      "2016",
+      "2019",
+      "2019",
+      "2023"
+    ],
+    "numero_legislaturas": 5,
+    "edad": 38
+  },
+  {
+    "codParlamentario": 263,
+    "nombre": "Manuel Mariscal Zabala",
+    "partido": "VOX",
+    "provincia": "Toledo",
+    "legislaturas": [
+      "2019",
+      "2019",
+      "2023"
+    ],
+    "numero_legislaturas": 3,
+    "edad": 33
+  },
+  {
+    "codParlamentario": 264,
+    "nombre": "Ignacio López Cano",
+    "partido": "PSOE",
+    "provincia": "Málaga",
+    "legislaturas": [
+      "2019",
+      "2019",
+      "2023"
+    ],
+    "numero_legislaturas": 3,
+    "edad": 49
+  },
+  {
+    "codParlamentario": 265,
+    "nombre": "Asier Antona Gómez",
+    "partido": "PP",
+    "provincia": "S/C Tenerife",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 49
+  },
+  {
+    "codParlamentario": 266,
+    "nombre": "Carlos García Adanero",
+    "partido": "PP",
+    "provincia": "Madrid",
+    "legislaturas": [
+      "2019",
+      "2019",
+      "2023"
+    ],
+    "numero_legislaturas": 3,
+    "edad": 58
+  },
+  {
+    "codParlamentario": 267,
+    "nombre": "Marta Lois González",
+    "partido": "SUMAR",
+    "provincia": "Coruña (A)",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 56
+  },
+  {
+    "codParlamentario": 268,
+    "nombre": "Francisco Sierra Caballero",
+    "partido": "SUMAR",
+    "provincia": "Sevilla",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 56
+  },
+  {
+    "codParlamentario": 269,
+    "nombre": "Fèlix Alonso Cantorné",
+    "partido": "SUMAR",
+    "provincia": "Tarragona",
+    "legislaturas": [
+      "2016",
+      "2016",
+      "2023"
+    ],
+    "numero_legislaturas": 3,
+    "edad": 66
+  },
+  {
+    "codParlamentario": 270,
+    "nombre": "Jaime Miguel De los Santos González",
+    "partido": "PP",
+    "provincia": "Madrid",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 47
+  },
+  {
+    "codParlamentario": 271,
+    "nombre": "Cristina Narbona Ruiz",
+    "partido": "PSOE",
+    "provincia": "Madrid",
+    "legislaturas": [
+      "1996",
+      "2004",
+      "2008",
+      "2011",
+      "2023"
+    ],
+    "numero_legislaturas": 5,
+    "edad": 74
+  },
+  {
+    "codParlamentario": 272,
+    "nombre": "Lídia Guinart Moreno",
+    "partido": "PSC-PSOE",
+    "provincia": "Barcelona",
+    "legislaturas": [
+      "2016",
+      "2016",
+      "2019",
+      "2019",
+      "2023"
+    ],
+    "numero_legislaturas": 5,
+    "edad": 59
+  },
+  {
+    "codParlamentario": 273,
+    "nombre": "Lázaro Azorín Salar",
+    "partido": "PSOE",
+    "provincia": "Alicante/Alacant",
+    "legislaturas": [
+      "2019",
+      "2023"
+    ],
+    "numero_legislaturas": 2,
+    "edad": 50
+  },
+  {
+    "codParlamentario": 274,
+    "nombre": "María Pilar Alegría Continente",
+    "partido": "PSOE",
+    "provincia": "Zaragoza",
+    "legislaturas": [
+      "2008",
+      "2011",
+      "2023"
+    ],
+    "numero_legislaturas": 3,
+    "edad": 48
+  },
+  {
+    "codParlamentario": 275,
+    "nombre": "José Manuel Albares Bueno",
+    "partido": "PSOE",
+    "provincia": "Madrid",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 53
+  },
+  {
+    "codParlamentario": 276,
+    "nombre": "Raquel Clemente Muñoz",
+    "partido": "PP",
+    "provincia": "Teruel",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 43
+  },
+  {
+    "codParlamentario": 277,
+    "nombre": "José Alberto Herrero Bono",
+    "partido": "PP",
+    "provincia": "Teruel",
+    "legislaturas": [
+      "2011",
+      "2016",
+      "2016",
+      "2019",
+      "2019",
+      "2023"
+    ],
+    "numero_legislaturas": 6,
+    "edad": 47
+  },
+  {
+    "codParlamentario": 278,
+    "nombre": "Diana Morant Ripoll",
+    "partido": "PSOE",
+    "provincia": "Valencia/València",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 45
+  },
+  {
+    "codParlamentario": 279,
+    "nombre": "Mercedes González Fernández",
+    "partido": "PSOE",
+    "provincia": "Madrid",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 50
+  },
+  {
+    "codParlamentario": 280,
+    "nombre": "José Miñones Conde",
+    "partido": "PsdeG-PSOE",
+    "provincia": "Coruña (A)",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 53
+  },
+  {
+    "codParlamentario": 281,
+    "nombre": "María del Mar Sánchez Sierra",
+    "partido": "PP",
+    "provincia": "Madrid",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 56
+  },
+  {
+    "codParlamentario": 282,
+    "nombre": "Eduardo Carazo Hermoso",
+    "partido": "PP",
+    "provincia": "Valladolid",
+    "legislaturas": [
+      "2019",
+      "2023"
+    ],
+    "numero_legislaturas": 2,
+    "edad": 35
+  },
+  {
+    "codParlamentario": 283,
+    "nombre": "María de la Cabeza Ruiz Solás",
+    "partido": "VOX",
+    "provincia": "Madrid",
+    "legislaturas": [
+      "2019",
+      "2019",
+      "2023"
+    ],
+    "numero_legislaturas": 3,
+    "edad": 55
+  },
+  {
+    "codParlamentario": 284,
+    "nombre": "Rocío De Meer Méndez",
+    "partido": "VOX",
+    "provincia": "Almería",
+    "legislaturas": [
+      "2019",
+      "2019",
+      "2023"
+    ],
+    "numero_legislaturas": 3,
+    "edad": 36
+  },
+  {
+    "codParlamentario": 285,
+    "nombre": "Marta María Rivera de la Cruz",
+    "partido": "PP",
+    "provincia": "Madrid",
+    "legislaturas": [
+      "2016",
+      "2016",
+      "2019",
+      "2023"
+    ],
+    "numero_legislaturas": 4,
+    "edad": 55
+  },
+  {
+    "codParlamentario": 286,
+    "nombre": "Fernando Grande-Marlaska Gómez",
+    "partido": "PSOE",
+    "provincia": "Cádiz",
+    "legislaturas": [
+      "2019",
+      "2019",
+      "2023"
+    ],
+    "numero_legislaturas": 3,
+    "edad": 63
+  },
+  {
+    "codParlamentario": 287,
+    "nombre": "Oskar Matute García de Jalón",
+    "partido": "EH Bildu",
+    "provincia": "Bizkaia",
+    "legislaturas": [
+      "2016",
+      "2019",
+      "2019",
+      "2023"
+    ],
+    "numero_legislaturas": 4,
+    "edad": 53
+  },
+  {
+    "codParlamentario": 288,
+    "nombre": "Isabel Pozueta Fernández",
+    "partido": "EH Bildu",
+    "provincia": "Navarra",
+    "legislaturas": [
+      "2019",
+      "2023"
+    ],
+    "numero_legislaturas": 2,
+    "edad": 60
+  },
+  {
+    "codParlamentario": 289,
+    "nombre": "Iñaki Ruiz de Pinedo Undiano",
+    "partido": "EH Bildu",
+    "provincia": "Araba/Álava",
+    "legislaturas": [
+      "2019",
+      "2019",
+      "2023"
+    ],
+    "numero_legislaturas": 3,
+    "edad": 71
+  },
+  {
+    "codParlamentario": 290,
+    "nombre": "Jon Iñarritu García",
+    "partido": "EH Bildu",
+    "provincia": "Gipuzkoa",
+    "legislaturas": [
+      "2011",
+      "2019",
+      "2019",
+      "2023"
+    ],
+    "numero_legislaturas": 4,
+    "edad": 46
+  },
+  {
+    "codParlamentario": 291,
+    "nombre": "Marije Fullaondo la Cruz",
+    "partido": "EH Bildu",
+    "provincia": "Bizkaia",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 61
+  },
+  {
+    "codParlamentario": 292,
+    "nombre": "Javier Sánchez Serna",
+    "partido": "SUMAR",
+    "provincia": "Murcia",
+    "legislaturas": [
+      "2016",
+      "2016",
+      "2019",
+      "2019",
+      "2023"
+    ],
+    "numero_legislaturas": 5,
+    "edad": 40
+  },
+  {
+    "codParlamentario": 293,
+    "nombre": "Patricia Rueda Perelló",
+    "partido": "VOX",
+    "provincia": "Málaga",
+    "legislaturas": [
+      "2019",
+      "2019",
+      "2023"
+    ],
+    "numero_legislaturas": 3,
+    "edad": 49
+  },
+  {
+    "codParlamentario": 294,
+    "nombre": "Ricardo Chamorro Delmo",
+    "partido": "VOX",
+    "provincia": "Ciudad Real",
+    "legislaturas": [
+      "2019",
+      "2019",
+      "2023"
+    ],
+    "numero_legislaturas": 3,
+    "edad": 48
+  },
+  {
+    "codParlamentario": 295,
+    "nombre": "Carla Toscano de Balbín",
+    "partido": "VOX",
+    "provincia": "Madrid",
+    "legislaturas": [
+      "2019",
+      "2019",
+      "2023"
+    ],
+    "numero_legislaturas": 3,
+    "edad": 48
+  },
+  {
+    "codParlamentario": 296,
+    "nombre": "Alejandro Soler Mur",
+    "partido": "PSOE",
+    "provincia": "Alicante/Alacant",
+    "legislaturas": [
+      "2019",
+      "2019",
+      "2023"
+    ],
+    "numero_legislaturas": 3,
+    "edad": 53
+  },
+  {
+    "codParlamentario": 297,
+    "nombre": "Luis María Beamonte Mesa",
+    "partido": "PP",
+    "provincia": "Zaragoza",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 62
+  },
+  {
+    "codParlamentario": 298,
+    "nombre": "Alfonso Carlos Macías Gata",
+    "partido": "PP",
+    "provincia": "Badajoz",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 58
+  },
+  {
+    "codParlamentario": 299,
+    "nombre": "Antonio Cavacasillas Rodríguez",
+    "partido": "PP",
+    "provincia": "Badajoz",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 48
+  },
+  {
+    "codParlamentario": 300,
+    "nombre": "Mertxe Aizpurua Arzallus",
+    "partido": "EH Bildu",
+    "provincia": "Gipuzkoa",
+    "legislaturas": [
+      "2019",
+      "2019",
+      "2023"
+    ],
+    "numero_legislaturas": 3,
+    "edad": 65
+  },
+  {
+    "codParlamentario": 301,
+    "nombre": "Íñigo Errejón Galván",
+    "partido": "SUMAR",
+    "provincia": "Madrid",
+    "legislaturas": [
+      "2016",
+      "2016",
+      "2019",
+      "2023"
+    ],
+    "numero_legislaturas": 4,
+    "edad": 42
+  },
+  {
+    "codParlamentario": 302,
+    "nombre": "Héctor Gómez Hernández",
+    "partido": "PSOE",
+    "provincia": "S/C Tenerife",
+    "legislaturas": [
+      "2019",
+      "2019",
+      "2023"
+    ],
+    "numero_legislaturas": 3,
+    "edad": 47
+  },
+  {
+    "codParlamentario": 303,
+    "nombre": "Maribel Vaquero Montero",
+    "partido": "EAJ-PNV",
+    "provincia": "Gipuzkoa",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 55
+  },
+  {
+    "codParlamentario": 304,
+    "nombre": "Aitor Esteban Bravo",
+    "partido": "EAJ-PNV",
+    "provincia": "Bizkaia",
+    "legislaturas": [
+      "2004",
+      "2008",
+      "2011",
+      "2016",
+      "2016",
+      "2019",
+      "2019",
+      "2023"
+    ],
+    "numero_legislaturas": 8,
+    "edad": 63
+  },
+  {
+    "codParlamentario": 305,
+    "nombre": "Joseba Andoni Agirretxea Urresti",
+    "partido": "EAJ-PNV",
+    "provincia": "Gipuzkoa",
+    "legislaturas": [
+      "2008",
+      "2011",
+      "2016",
+      "2016",
+      "2019",
+      "2019",
+      "2023"
+    ],
+    "numero_legislaturas": 7,
+    "edad": 59
+  },
+  {
+    "codParlamentario": 306,
+    "nombre": "Mikel Legarda Uriarte",
+    "partido": "EAJ-PNV",
+    "provincia": "Araba/Álava",
+    "legislaturas": [
+      "2016",
+      "2016",
+      "2019",
+      "2019",
+      "2023"
+    ],
+    "numero_legislaturas": 5,
+    "edad": 69
+  },
+  {
+    "codParlamentario": 307,
+    "nombre": "María de los Reyes Romero Vilches",
+    "partido": "VOX",
+    "provincia": "Sevilla",
+    "legislaturas": [
+      "2019",
+      "2019",
+      "2023"
+    ],
+    "numero_legislaturas": 3,
+    "edad": 58
+  },
+  {
+    "codParlamentario": 308,
+    "nombre": "José Ignacio Romaní Cantera",
+    "partido": "PP",
+    "provincia": "Cádiz",
+    "legislaturas": [
+      "2016",
+      "2019",
+      "2023"
+    ],
+    "numero_legislaturas": 3,
+    "edad": 54
+  },
+  {
+    "codParlamentario": 309,
+    "nombre": "Idoia Sagastizabal Unzetabarrenetxea",
+    "partido": "EAJ-PNV",
+    "provincia": "Bizkaia",
+    "legislaturas": [
+      "2016",
+      "2019",
+      "2019",
+      "2023"
+    ],
+    "numero_legislaturas": 4,
+    "edad": 53
+  },
+  {
+    "codParlamentario": 310,
+    "nombre": "Verónica Martínez Barbero",
+    "partido": "SUMAR",
+    "provincia": "Pontevedra",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 45
+  },
+  {
+    "codParlamentario": 311,
+    "nombre": "Agustín Santos Maraver",
+    "partido": "SUMAR",
+    "provincia": "Madrid",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 70
+  },
+  {
+    "codParlamentario": 312,
+    "nombre": "Gabriel Rufián Romero",
+    "partido": "ERC",
+    "provincia": "Barcelona",
+    "legislaturas": [
+      "2016",
+      "2016",
+      "2019",
+      "2019",
+      "2023"
+    ],
+    "numero_legislaturas": 5,
+    "edad": 43
+  },
+  {
+    "codParlamentario": 313,
+    "nombre": "Montserrat Bassa Coll",
+    "partido": "ERC",
+    "provincia": "Girona",
+    "legislaturas": [
+      "2019",
+      "2019",
+      "2023"
+    ],
+    "numero_legislaturas": 3,
+    "edad": 60
+  },
+  {
+    "codParlamentario": 314,
+    "nombre": "Concepción Gamarra Ruiz-Clavijo",
+    "partido": "PP",
+    "provincia": "Rioja (La)",
+    "legislaturas": [
+      "2019",
+      "2019",
+      "2023"
+    ],
+    "numero_legislaturas": 3,
+    "edad": 51
+  },
+  {
+    "codParlamentario": 315,
+    "nombre": "Cayetana Álvarez de Toledo Peralta-Ramos",
+    "partido": "PP",
+    "provincia": "Madrid",
+    "legislaturas": [
+      "2008",
+      "2011",
+      "2019",
+      "2019",
+      "2023"
+    ],
+    "numero_legislaturas": 5,
+    "edad": 51
+  },
+  {
+    "codParlamentario": 316,
+    "nombre": "Alberto Asarta Cuevas",
+    "partido": "VOX",
+    "provincia": "Castellón/Castelló",
+    "legislaturas": [
+      "2019",
+      "2023"
+    ],
+    "numero_legislaturas": 2,
+    "edad": 74
+  },
+  {
+    "codParlamentario": 317,
+    "nombre": "Santiago Abascal Conde",
+    "partido": "VOX",
+    "provincia": "Madrid",
+    "legislaturas": [
+      "2019",
+      "2019",
+      "2023"
+    ],
+    "numero_legislaturas": 3,
+    "edad": 49
+  },
+  {
+    "codParlamentario": 318,
+    "nombre": "Joaquín Robles López",
+    "partido": "VOX",
+    "provincia": "Murcia",
+    "legislaturas": [
+      "2019",
+      "2019",
+      "2023"
+    ],
+    "numero_legislaturas": 3,
+    "edad": 61
+  },
+  {
+    "codParlamentario": 319,
+    "nombre": "María Soledad Cruz-Guzmán García",
+    "partido": "PP",
+    "provincia": "Sevilla",
+    "legislaturas": [
+      "2019",
+      "2019",
+      "2023"
+    ],
+    "numero_legislaturas": 3,
+    "edad": 50
+  },
+  {
+    "codParlamentario": 320,
+    "nombre": "Milagros Marcos Ortega",
+    "partido": "PP",
+    "provincia": "Palencia",
+    "legislaturas": [
+      "2019",
+      "2019",
+      "2023"
+    ],
+    "numero_legislaturas": 3,
+    "edad": 60
+  },
+  {
+    "codParlamentario": 321,
+    "nombre": "Noelia Cobo Pérez",
+    "partido": "PSOE",
+    "provincia": "Cantabria",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 53
+  },
+  {
+    "codParlamentario": 322,
+    "nombre": "Lilith Verstrynge Revuelta",
+    "partido": "SUMAR",
+    "provincia": "Barcelona",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 33
+  },
+  {
+    "codParlamentario": 323,
+    "nombre": "Miguel Ángel Paniagua Núñez",
+    "partido": "PP",
+    "provincia": "Palencia",
+    "legislaturas": [
+      "2016",
+      "2016",
+      "2019",
+      "2023"
+    ],
+    "numero_legislaturas": 4,
+    "edad": 61
+  },
+  {
+    "codParlamentario": 324,
+    "nombre": "Manuel Cobo Vega",
+    "partido": "PP",
+    "provincia": "Madrid",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 69
+  },
+  {
+    "codParlamentario": 325,
+    "nombre": "Francisco Javier Ortega Smith-Molina",
+    "partido": "VOX",
+    "provincia": "Madrid",
+    "legislaturas": [
+      "2019",
+      "2019",
+      "2023"
+    ],
+    "numero_legislaturas": 3,
+    "edad": 57
+  },
+  {
+    "codParlamentario": 326,
+    "nombre": "Meritxell Batet Lamaña",
+    "partido": "PSC-PSOE",
+    "provincia": "Barcelona",
+    "legislaturas": [
+      "2004",
+      "2008",
+      "2011",
+      "2016",
+      "2016",
+      "2019",
+      "2019",
+      "2023"
+    ],
+    "numero_legislaturas": 8,
+    "edad": 52
+  },
+  {
+    "codParlamentario": 327,
+    "nombre": "Aina Vidal Sáez",
+    "partido": "SUMAR",
+    "provincia": "Barcelona",
+    "legislaturas": [
+      "2016",
+      "2016",
+      "2019",
+      "2019",
+      "2023"
+    ],
+    "numero_legislaturas": 5,
+    "edad": 40
+  },
+  {
+    "codParlamentario": 328,
+    "nombre": "Gerardo Pisarello Prados",
+    "partido": "SUMAR",
+    "provincia": "Barcelona",
+    "legislaturas": [
+      "2019",
+      "2019",
+      "2023"
+    ],
+    "numero_legislaturas": 3,
+    "edad": 55
+  },
+  {
+    "codParlamentario": 329,
+    "nombre": "Eloi Badia Casas",
+    "partido": "SUMAR",
+    "provincia": "Barcelona",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 42
+  },
+  {
+    "codParlamentario": 330,
+    "nombre": "Gala Pin Ferrando",
+    "partido": "SUMAR",
+    "provincia": "Barcelona",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 44
+  },
+  {
+    "codParlamentario": 331,
+    "nombre": "Carina Mejías Sánchez",
+    "partido": "VOX",
+    "provincia": "Barcelona",
+    "legislaturas": [
+      "2019",
+      "2023"
+    ],
+    "numero_legislaturas": 2,
+    "edad": 61
+  },
+  {
+    "codParlamentario": 332,
+    "nombre": "Júlia Boada Danés",
+    "partido": "SUMAR",
+    "provincia": "Girona",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 36
+  },
+  {
+    "codParlamentario": 333,
+    "nombre": "Sandra Fernández Herranz",
+    "partido": "PP",
+    "provincia": "Balears (Illes)",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 45
+  },
+  {
+    "codParlamentario": 334,
+    "nombre": "Ana Isabel Alós López",
+    "partido": "PP",
+    "provincia": "Huesca",
+    "legislaturas": [
+      "2016",
+      "2016",
+      "2023"
+    ],
+    "numero_legislaturas": 3,
+    "edad": 56
+  },
+  {
+    "codParlamentario": 335,
+    "nombre": "Teresa Ribera Rodríguez",
+    "partido": "PSOE",
+    "provincia": "Madrid",
+    "legislaturas": [
+      "2019",
+      "2019",
+      "2023"
+    ],
+    "numero_legislaturas": 3,
+    "edad": 56
+  },
+  {
+    "codParlamentario": 336,
+    "nombre": "Pedro Casares Hontañón",
+    "partido": "PSOE",
+    "provincia": "Cantabria",
+    "legislaturas": [
+      "2019",
+      "2023"
+    ],
+    "numero_legislaturas": 2,
+    "edad": 42
+  },
+  {
+    "codParlamentario": 337,
+    "nombre": "María Jesús Montero Cuadrado",
+    "partido": "PSOE",
+    "provincia": "Sevilla",
+    "legislaturas": [
+      "2019",
+      "2019",
+      "2023"
+    ],
+    "numero_legislaturas": 3,
+    "edad": 59
+  },
+  {
+    "codParlamentario": 338,
+    "nombre": "Teslem Andala Ubbi",
+    "partido": "SUMAR",
+    "provincia": "Madrid",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 31
+  },
+  {
+    "codParlamentario": 339,
+    "nombre": "Juan Luis Pedreño Molina",
+    "partido": "PP",
+    "provincia": "Murcia",
+    "legislaturas": [
+      "2019",
+      "2023"
+    ],
+    "numero_legislaturas": 2,
+    "edad": 56
+  },
+  {
+    "codParlamentario": 340,
+    "nombre": "Esther Llamazares Domingo",
+    "partido": "PP",
+    "provincia": "Asturias",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 55
+  },
+  {
+    "codParlamentario": 341,
+    "nombre": "María Eugenia Carballedo Berlanga",
+    "partido": "PP",
+    "provincia": "Madrid",
+    "legislaturas": [
+      "2008",
+      "2023"
+    ],
+    "numero_legislaturas": 2,
+    "edad": 54
+  },
+  {
+    "codParlamentario": 342,
+    "nombre": "Yolanda Díaz Pérez",
+    "partido": "SUMAR",
+    "provincia": "Madrid",
+    "legislaturas": [
+      "2016",
+      "2016",
+      "2019",
+      "2019",
+      "2023"
+    ],
+    "numero_legislaturas": 5,
+    "edad": 54
+  },
+  {
+    "codParlamentario": 343,
+    "nombre": "Noelia Núñez González",
+    "partido": "PP",
+    "provincia": "Madrid",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 33
+  },
+  {
+    "codParlamentario": 344,
+    "nombre": "María José Rodríguez de Millán Parro",
+    "partido": "VOX",
+    "provincia": "Madrid",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 30
+  },
+  {
+    "codParlamentario": 345,
+    "nombre": "Carlos Hernández Quero",
+    "partido": "VOX",
+    "provincia": "Málaga",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 35
+  },
+  {
+    "codParlamentario": 346,
+    "nombre": "Alberto Núñez Feijóo",
+    "partido": "PP",
+    "provincia": "Madrid",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 64
+  },
+  {
+    "codParlamentario": 347,
+    "nombre": "Marta Varela Pazos",
+    "partido": "PP",
+    "provincia": "Madrid",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 42
+  },
+  {
+    "codParlamentario": 348,
+    "nombre": "Aurora Nacarino-Brabo Jiménez",
+    "partido": "PP",
+    "provincia": "Madrid",
+    "legislaturas": [
+      "2019",
+      "2023"
+    ],
+    "numero_legislaturas": 2,
+    "edad": 38
+  },
+  {
+    "codParlamentario": 349,
+    "nombre": "Francisco José Conde López",
+    "partido": "PP",
+    "provincia": "Lugo",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 57
+  },
+  {
+    "codParlamentario": 350,
+    "nombre": "Pablo Hispán Iglesias de Ussel",
+    "partido": "PP",
+    "provincia": "Granada",
+    "legislaturas": [
+      "2019",
+      "2023"
+    ],
+    "numero_legislaturas": 2,
+    "edad": 52
+  },
+  {
+    "codParlamentario": 351,
+    "nombre": "Mirian Guardiola Salmerón",
+    "partido": "PP",
+    "provincia": "Murcia",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 42
+  },
+  {
+    "codParlamentario": 352,
+    "nombre": "Ignasi Conesa Coma",
+    "partido": "PSC-PSOE",
+    "provincia": "Barcelona",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 62
+  },
+  {
+    "codParlamentario": 353,
+    "nombre": "José Losada Fernández",
+    "partido": "PSOE",
+    "provincia": "Sevilla",
+    "legislaturas": [
+      "2019",
+      "2023"
+    ],
+    "numero_legislaturas": 2,
+    "edad": 59
+  },
+  {
+    "codParlamentario": 354,
+    "nombre": "Juan Antonio Lorenzo Cazorla",
+    "partido": "PSOE",
+    "provincia": "Almería",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 59
+  },
+  {
+    "codParlamentario": 355,
+    "nombre": "Javier Rodríguez Palacios",
+    "partido": "PSOE",
+    "provincia": "Madrid",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 53
+  },
+  {
+    "codParlamentario": 356,
+    "nombre": "Hana Jalloul Muro",
+    "partido": "PSOE",
+    "provincia": "Madrid",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 47
+  },
+  {
+    "codParlamentario": 357,
+    "nombre": "Víctor Gutiérrez Santiago",
+    "partido": "PSOE",
+    "provincia": "Madrid",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 34
+  },
+  {
+    "codParlamentario": 358,
+    "nombre": "Alba Soldevilla Novials",
+    "partido": "PSC-PSOE",
+    "provincia": "Barcelona",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 38
+  },
+  {
+    "codParlamentario": 359,
+    "nombre": "Esther Rodríguez Suárez",
+    "partido": "PSOE",
+    "provincia": "S/C Tenerife",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 54
+  },
+  {
+    "codParlamentario": 360,
+    "nombre": "Zaida Cantera de Castro",
+    "partido": "PSOE",
+    "provincia": "Madrid",
+    "legislaturas": [
+      "2016",
+      "2016",
+      "2019",
+      "2019",
+      "2023"
+    ],
+    "numero_legislaturas": 5,
+    "edad": 48
+  },
+  {
+    "codParlamentario": 361,
+    "nombre": "Mª Isabel Moreno Fernández",
+    "partido": "PSOE",
+    "provincia": "Cádiz",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 49
+  },
+  {
+    "codParlamentario": 362,
+    "nombre": "Víctor Javier Ruiz de Diego",
+    "partido": "PSOE",
+    "provincia": "Zaragoza",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 58
+  },
+  {
+    "codParlamentario": 363,
+    "nombre": "Alberto Mayoral de Lamo",
+    "partido": "PSOE",
+    "provincia": "Córdoba",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 41
+  },
+  {
+    "codParlamentario": 364,
+    "nombre": "Víctor Camino Miñana",
+    "partido": "PSOE",
+    "provincia": "Valencia/València",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 31
+  },
+  {
+    "codParlamentario": 365,
+    "nombre": "Cristina López Zamora",
+    "partido": "PSOE",
+    "provincia": "Ciudad Real",
+    "legislaturas": [
+      "2019",
+      "2019",
+      "2023"
+    ],
+    "numero_legislaturas": 3,
+    "edad": 36
+  },
+  {
+    "codParlamentario": 366,
+    "nombre": "Jesús Mayoral Pérez",
+    "partido": "PSOE",
+    "provincia": "Toledo",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 40
+  },
+  {
+    "codParlamentario": 367,
+    "nombre": "Emilia Almodóvar Sánchez",
+    "partido": "PSOE",
+    "provincia": "Cáceres",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 44
+  },
+  {
+    "codParlamentario": 368,
+    "nombre": "María Torres Tejada",
+    "partido": "PP",
+    "provincia": "Jaén",
+    "legislaturas": [
+      "2016",
+      "2023"
+    ],
+    "numero_legislaturas": 2,
+    "edad": 44
+  },
+  {
+    "codParlamentario": 369,
+    "nombre": "Josep Paré Aregall",
+    "partido": "PSC-PSOE",
+    "provincia": "Barcelona",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 42
+  },
+  {
+    "codParlamentario": 370,
+    "nombre": "Marta Gracia Blanco",
+    "partido": "PSOE",
+    "provincia": "Zaragoza",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 53
+  },
+  {
+    "codParlamentario": 371,
+    "nombre": "Rocío Aguirre Gil de Biedma",
+    "partido": "VOX",
+    "provincia": "Madrid",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 61
+  },
+  {
+    "codParlamentario": 372,
+    "nombre": "Candela López Tagliafico",
+    "partido": "SUMAR",
+    "provincia": "Barcelona",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 40
+  },
+  {
+    "codParlamentario": 373,
+    "nombre": "José Enrique Núñez Guijarro",
+    "partido": "PP",
+    "provincia": "Madrid",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 51
+  },
+  {
+    "codParlamentario": 374,
+    "nombre": "Edurne Uriarte Bengoechea",
+    "partido": "PP",
+    "provincia": "Madrid",
+    "legislaturas": [
+      "2019",
+      "2019",
+      "2023"
+    ],
+    "numero_legislaturas": 3,
+    "edad": 65
+  },
+  {
+    "codParlamentario": 375,
+    "nombre": "Manuel Lago Peñas",
+    "partido": "SUMAR",
+    "provincia": "Coruña (A)",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 69
+  },
+  {
+    "codParlamentario": 376,
+    "nombre": "Olvido De la Rosa Baena",
+    "partido": "PSOE",
+    "provincia": "Granada",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 48
+  },
+  {
+    "codParlamentario": 377,
+    "nombre": "Patricia Otero Rodríguez",
+    "partido": "PsdeG-PSOE",
+    "provincia": "Lugo",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 46
+  },
+  {
+    "codParlamentario": 378,
+    "nombre": "Carmelo Barrio Baroja",
+    "partido": "PP",
+    "provincia": "Araba/Álava",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 65
+  },
+  {
+    "codParlamentario": 379,
+    "nombre": "Paula Fernández Pena",
+    "partido": "PsdeG-PSOE",
+    "provincia": "Pontevedra",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 54
+  },
+  {
+    "codParlamentario": 380,
+    "nombre": "María Montserrat García Chavarría",
+    "partido": "PsdeG-PSOE",
+    "provincia": "Coruña (A)",
+    "legislaturas": [
+      "2019",
+      "2019",
+      "2023"
+    ],
+    "numero_legislaturas": 3,
+    "edad": 57
+  },
+  {
+    "codParlamentario": 381,
+    "nombre": "Guillermo Hita Téllez",
+    "partido": "PSOE",
+    "provincia": "Madrid",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 59
+  },
+  {
+    "codParlamentario": 382,
+    "nombre": "Juan Andrés Bayón Rolo",
+    "partido": "PP",
+    "provincia": "Pontevedra",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 27
+  },
+  {
+    "codParlamentario": 383,
+    "nombre": "María Elisa Vedrina Conesa",
+    "partido": "PP",
+    "provincia": "Tarragona",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 55
+  },
+  {
+    "codParlamentario": 384,
+    "nombre": "María Sainz Martín",
+    "partido": "PSOE",
+    "provincia": "Madrid",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 72
+  },
+  {
+    "codParlamentario": 385,
+    "nombre": "Cristina Moreno Borrás",
+    "partido": "PP",
+    "provincia": "Valencia/València",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 58
+  },
+  {
+    "codParlamentario": 386,
+    "nombre": "Mercedes Otero García",
+    "partido": "PSOE",
+    "provincia": "Asturias",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 49
+  },
+  {
+    "codParlamentario": 387,
+    "nombre": "Oriol Almirón Ruiz",
+    "partido": "PSC-PSOE",
+    "provincia": "Barcelona",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 25
+  },
+  {
+    "codParlamentario": 388,
+    "nombre": "Andrea Canelo Matito",
+    "partido": "PSC-PSOE",
+    "provincia": "Barcelona",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 47
+  },
+  {
+    "codParlamentario": 389,
+    "nombre": "Josep Pagès i Massó",
+    "partido": "JxCAT-JUNTS",
+    "provincia": "Barcelona",
+    "legislaturas": [
+      "2019",
+      "2023"
+    ],
+    "numero_legislaturas": 2,
+    "edad": 53
+  },
+  {
+    "codParlamentario": 390,
+    "nombre": "Vicente Montávez Aguillaume",
+    "partido": "PSOE",
+    "provincia": "Madrid",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 45
+  },
+  {
+    "codParlamentario": 391,
+    "nombre": "Ainhoa Molina León",
+    "partido": "PP",
+    "provincia": "S/C Tenerife",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 28
+  },
+  {
+    "codParlamentario": 392,
+    "nombre": "Etna Estrems Fayos",
+    "partido": "ERC",
+    "provincia": "Girona",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 43
+  },
+  {
+    "codParlamentario": 393,
+    "nombre": "Alda Recas Martín",
+    "partido": "SUMAR",
+    "provincia": "Madrid",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 44
+  },
+  {
+    "codParlamentario": 394,
+    "nombre": "Jonay Quintero Hernández",
+    "partido": "PSOE",
+    "provincia": "S/C Tenerife",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 25
+  },
+  {
+    "codParlamentario": 395,
+    "nombre": "Raúl Cuevas Larrosa",
+    "partido": "PP",
+    "provincia": "Zaragoza",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 39
+  },
+  {
+    "codParlamentario": 396,
+    "nombre": "Luis Antonio Gómez Piña",
+    "partido": "PsdeG-PSOE",
+    "provincia": "Pontevedra",
+    "legislaturas": [
+      "2008",
+      "2023"
+    ],
+    "numero_legislaturas": 2,
+    "edad": 56
+  },
+  {
+    "codParlamentario": 397,
+    "nombre": "Viviane Ogou i Corbi",
+    "partido": "SUMAR",
+    "provincia": "Barcelona",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 28
+  },
+  {
+    "codParlamentario": 398,
+    "nombre": "Mikel Otero Gabirondo",
+    "partido": "EH Bildu",
+    "provincia": "Araba/Álava",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 53
+  },
+  {
+    "codParlamentario": 399,
+    "nombre": "Nerea Renteria Lasanta",
+    "partido": "EAJ-PNV",
+    "provincia": "Bizkaia",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 56
+  },
+  {
+    "codParlamentario": 400,
+    "nombre": "Gabriel Blanco Arrúe",
+    "partido": "PSE-EE (PSOE)",
+    "provincia": "Bizkaia",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 26
+  },
+  {
+    "codParlamentario": 401,
+    "nombre": "Iván Cacho Isla",
+    "partido": "PSN-PSOE",
+    "provincia": "Navarra",
+    "legislaturas": [
+      "2023"
+    ],
+    "numero_legislaturas": 1,
+    "edad": 51
+  }
+]
