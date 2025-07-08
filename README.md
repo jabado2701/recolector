@@ -73,7 +73,7 @@ Recolector/
 - deep-translator  
 - tqdm *(opcional)*
 
-> ⚠️ Asegúrate de tener `ChromeDriver` actualizado y compatible con tu navegador si usas Selenium.
+> ⚠️ Muy importante asegurarse que  `ChromeDriver` está actualizado y es compatible con el navegador si se usa Selenium.
 ````
 ## 🖥️ Ejecución
 
@@ -113,17 +113,10 @@ python traductor/Traductor.py
 
 # Limpieza final
 python limpieza/LimpiezaDesconocido.py
+python limpieza/BorradorDuplicados.py
 ```
 
 ## 📄 Notas adicionales
 
-* El archivo base `politicos_etiquetado_final.xlsx` debe estar presente en la raíz del proyecto.
+* El archivo base `politicos.xlsx` se muestra con los contenidos previos a la ejecución de los códigos.
 * Todos los datos gestionados son públicos y obtenidos de fuentes oficiales (Congreso, Wikipedia, X/Twitter).
-* Los resultados pueden integrarse fácilmente con sistemas de análisis o visualización (como tu app en Streamlit).
-
-```
-
----
-
-¿Te gustaría que también prepare el `requirements.txt` ahora? O, si prefieres, puedo generar este `README.md` como archivo para que lo pegues directamente en tu repo.
-```
